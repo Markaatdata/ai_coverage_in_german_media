@@ -1,0 +1,3442 @@
+Typ,Wort,Anzahl
+MISC,AI,516
+CARDINAL,one,134
+ORDINAL,first,130
+CARDINAL,two,80
+GPE,Germany,72
+ORG,Google,71
+NORP,german,49
+DATE,today,43
+ORDINAL,second,40
+GPE,China,35
+CARDINAL,three,33
+ORDINAL,third,28
+GPE,US,28
+NORP,european,26
+CARDINAL,four,24
+DATE,year,24
+DATE,2022,24
+GPE,United States,23
+NORP,chinese,22
+LOC,Europe,22
+NORP,american,22
+ORG,VW,20
+CARDINAL,2,19
+CARDINAL,ten,18
+PERSON,Williams,18
+ORG,Ford,17
+ORG,Amazon,17
+PERSON,Elon Musk,17
+ORG,Microsoft,16
+MISC,AI,16
+ORG,Tesla,16
+CARDINAL,half,14
+GPE,Munich,14
+NORP,british,14
+PRODUCT,Alexa,13
+NORP,russian,13
+PERSON,Beethoven,13
+GPE,USA,13
+CARDINAL,five,13
+GPE,Hamburg,12
+ORG,Openai,12
+GPE,Las Vegas,12
+EVENT,Corona,12
+DATE,Tuesday,12
+PRODUCT,GPT,12
+DATE,last year,11
+PERSON,Luminar Neo,11
+ORDINAL,fifth,11
+ORG,Apple,11
+MISC,AI,11
+CARDINAL,3,11
+CARDINAL,eight,10
+PERSON,Lena,10
+PERSON,Roblox,10
+GPE,Xinjiang,10
+DATE,day,10
+CARDINAL,billion,10
+DATE,recent year,10
+GPE,Berlin,9
+ORG,Horizon Robotics,9
+CARDINAL,7,9
+ORG,ARD,9
+DATE,2021,9
+PRODUCT,GPT 3,9
+GPE,California,9
+LANGUAGE,English,9
+DATE,Thursday,9
+DATE,Wednesday,9
+LOC,Silicon Valley,9
+ORG,EU,9
+DATE,2019,8
+ORG,UN,8
+PRODUCT,Pixel,8
+ORG,Lightroom,8
+TIME,evening,8
+ORG,Netflix,8
+DATE,tomorrow,8
+DATE,2020,8
+DATE,daily,8
+DATE,year ago,8
+DATE,2017,8
+PERSON,Dall,8
+GPE,Russia,8
+NORP,french,7
+PRODUCT,Android,7
+DATE,Christmas,7
+ORG,GT Sport,7
+CARDINAL,100,7
+ORG,Target Blank,7
+CARDINAL,20,7
+ORG,Bloomberg,7
+DATE,next year,7
+PRODUCT,Twitter,7
+CARDINAL,80,7
+DATE,every day,7
+PERSON,Heesen,6
+ORG,Elbphilharmonie,6
+GPE,Ukraine,6
+PERSON,Berg,6
+DATE,summer,6
+PERSON,Lamda,6
+PERSON,Pantopia,6
+ORG,Audi,6
+ORG,Pixel,6
+PERSON,Gerd Tom Markotten,6
+ORG,Jacobs University,6
+DATE,autumn,6
+PERSON,Mayer Schnberger,6
+LOC,Asia,6
+ORG,GT7,6
+DATE,two year,6
+ORG,ECJ,6
+CARDINAL,nine,6
+DATE,month,6
+DATE,2016,6
+CARDINAL,million,6
+CARDINAL,twelve,6
+ORG,Midjourney,6
+PERSON,Kai Fu Lee,6
+GPE,New York,6
+PERSON,Blake Lemoine,6
+CARDINAL,seven,6
+PERSON,Das Haus,6
+NORP,creepy,6
+NORP,Lemoine,5
+CARDINAL,60,5
+ORG,Amazon Web Services,5
+CARDINAL,dozen,5
+ORG,Porsche,5
+ORG,Esken,5
+PERSON,Loab,5
+ORG,Deepmind,5
+ORG,Opengpt X,5
+ORG,Fuchs,5
+ORG,Hurt,5
+ORG,Wombo Dream,5
+PERSON,Refik Anadol,5
+ORG,Dotty,5
+ORG,Bosch,5
+PERSON,Monika Schnitzer,5
+NORP,english,5
+PERSON,Erica,5
+ORG,Hacker School,5
+PERSON,Benno,5
+PERSON,Mark Zuckerberg,5
+CARDINAL,17,5
+PERCENT,40 percent,5
+CARDINAL,4,5
+PERSON,Mobileye,5
+DATE,winter,5
+GPE,Beijing,5
+ORG,TUM,5
+DATE,September,5
+DATE,2001,5
+ORG,SPD,5
+GPE,Paris,5
+GPE,Kaust,5
+CARDINAL,thousand,5
+ORDINAL,fourth,5
+CARDINAL,50,5
+PERSON,Christina Puciata,5
+PERSON,Beethoven Ki,4
+PRODUCT,Android,4
+PERSON,Vladimir Putin,4
+CARDINAL,six,4
+ORG,Baidu,4
+ORDINAL,10th,4
+GPE,Hollywood,4
+ORG,Angels,4
+DATE,25 year old,4
+PERSON,Ready Care,4
+ORG,AWS,4
+DATE,several year,4
+DATE,2008,4
+ORDINAL,first,4
+ORG,Deutsche Bahn,4
+ORG,House,4
+ORG,Scholz,4
+DATE,seven year old,4
+DATE,six month,4
+ORG,Horizon Forbidden West,4
+ORG,CO,4
+PERSON,Hannig,4
+PERSON,Beguir,4
+DATE,2018,4
+GPE,Indianapolis,4
+PERSON,Apple Android,4
+ORG,Schnthaler,4
+PERSON,Richard David Precht,4
+PERSON,Replika,4
+ORG,Big Data Artificial Intelligence,4
+PERSON,Engelmeier,4
+CARDINAL,1000,4
+DATE,June,4
+PERSON,Dirk Kurbjuweit,4
+CARDINAL,1,4
+PERSON,Donald Trump,4
+ORG,Intel,4
+DATE,2025,4
+DATE,July,4
+ORG,EU Commission,4
+ORDINAL,first,4
+PERSON,Qiufan Chen,4
+DATE,20 year,4
+GPE,Liebl,4
+GPE,Heilbronn,4
+PERSON,Kliatchko,4
+PRODUCT,Bundesliga,4
+TIME,five minute,4
+CARDINAL,one,4
+CARDINAL,300,4
+ORG,Google,4
+GPE,London,4
+CARDINAL,500,4
+ORG,CT,4
+NORP,israeli,4
+DATE,2015,4
+ORG,Lemoine,4
+GPE,Heidelberg,4
+PERSON,Deepmind,4
+ORG,Washington Post,4
+ORG,Clearview,4
+ORG,Spiegel,3
+PERSON,James Earl Jones,3
+ORG,Gabby,3
+PERSON,Ron,3
+ORDINAL,20th,3
+PERSON,Barney,3
+TIME,minute,3
+PERSON,Jones,3
+PERSON,Wan Kenobi,3
+PERSON,Joscha Berg,3
+PERSON,Wu Dao,3
+ORG,Prasad,3
+NORP,canadian,3
+GPE,Geneva,3
+PERSON,Hoffman,3
+PERSON,Hamburg Elphi,3
+DATE,three day,3
+PERSON,Andrea,3
+CARDINAL,48,3
+DATE,Monday,3
+PERSON,XXV,3
+WORKOFART,Geri Halliwell Spice Girls,3
+DATE,around 20 year ago,3
+PERSON,Eternity,3
+PERSON,intro Angels,3
+PERSON,Jessica Heesen,3
+ORG,VW Group,3
+LOC,Lower Saxony,3
+PERCENT,80 percent,3
+ORG,Navy,3
+CARDINAL,150,3
+PERSON,Blake Lemoine,3
+CARDINAL,one,3
+CARDINAL,200,3
+DATE,Saturday,3
+ORG,Beata,3
+NORP,Friese,3
+PERSON,Bracher,3
+PERSON,Replica,3
+ORG,Kaack,3
+PERSON,Kaack,3
+DATE,May 2022,3
+GPE,Nomi Seewer,3
+GPE,Israel,3
+ORG,Jacobs Foundation,3
+CARDINAL,38,3
+PERSON,Ian Cheng,3
+ORG,TU,3
+PERSON,Philipp Kirsch,3
+PERSON,Bttcher,3
+ORG,ESA,3
+ORG,Stargate,3
+ORG,FMG,3
+GPE,Beguir,3
+PERSON,Patricia Henry,3
+PERSON,Hielkema,3
+PERSON,Munich,3
+CARDINAL,15,3
+PERSON,Aveva,3
+GPE,aria,3
+GPE,Berlin,3
+PERSON,Heil,3
+NORP,Macan,3
+ORG,Philharmonie Frankfurt,3
+PRODUCT,Adobe,3
+PERSON,William Hurt,3
+GPE,San Francisco,3
+CARDINAL,2020,3
+DATE,1899,3
+DATE,three year ago,3
+DATE,Halloween,3
+DATE,one day,3
+DATE,many year,3
+MISC,AI Lamda,3
+ORG,Toyota,3
+ORG,Aleph Alpha,3
+PERSON,TU Darmstadt,3
+DATE,last week,3
+DATE,2030,3
+PERSON,Gary Marcus,3
+ORG,Clearview AI,3
+CARDINAL,2030,3
+ORG,Technical University Munich,3
+PRODUCT,Waymo,3
+ORG,ML,3
+GPE,Stuttgart,3
+ORG,Technical University Munich TUM,3
+ORG,BMW,3
+DATE,2041,3
+ORG,VA,3
+GPE,Frankfurt,3
+NORP,Greens,3
+ORG,Ford VW,3
+PERSON,Argo Ai,3
+PERSON,Oliver Blume,3
+DATE,Friday,3
+DATE,previous year,3
+PERSON,Herbert Diess,3
+LOC,Europe,3
+MONEY,billion dollar,3
+ORG,Disney,3
+CARDINAL,5,3
+GPE,Qatar,3
+PERCENT,five percent,3
+TIME,24 hour,3
+PERSON,Tom Hanks,3
+ORG,Deep Learning,3
+PERSON,Dan Brown,3
+DATE,December,3
+NORP,christian,3
+ORG,Amazon,3
+CARDINAL,ninety,3
+NORP,australian,3
+DATE,10 year,3
+CARDINAL,2021,3
+ORG,Alphabet,3
+PERCENT,around 20 percent,3
+DATE,1970,3
+DATE,weekly,3
+TIME,hour,3
+PERSON,Jibo,3
+DATE,November,3
+GPE,Moscow,3
+PERSON,Harari,3
+CARDINAL,10,3
+PRODUCT,Wikipedia,3
+PERCENT,20 percent,3
+PERSON,Marianne Janik,3
+GPE,Corona,3
+ORG,Mercedes Benz,3
+NORP,scan,3
+PERSON,Watson,3
+DATE,2014,3
+GPE,Cambridge,3
+CARDINAL,hundred,2
+ORG,Tornado,2
+ORG,TPU,2
+PERSON,Laurence Moroney,2
+PERSON,Jack Neill,2
+CARDINAL,one two,2
+PERSON,Samantha Carter,2
+GPE,Netherlands,2
+PERSON,Sedar Soares,2
+GPE,Rotterdam,2
+PERSON,Taylor Swift,2
+ORG,Air Force,2
+MONEY,100 billion euro,2
+PERSON,Sundar Pichai,2
+PERSON,Wolfgang Konen,2
+NORP,african,2
+PERSON,Elon Musk Microsoft,2
+ORG,Photoshop,2
+PERSON,Adobe,2
+ORG,Perm,2
+CARDINAL,30,2
+PERSON,Foster,2
+ORG,Hertz,2
+WORKOFART,Horizon Forbidden West,2
+CARDINAL,600,2
+ORG,Herweck,2
+CARDINAL,fifty,2
+PERSON,Kempten,2
+QUANTITY,1500 degree,2
+PERSON,Lee,2
+PERSON,Kling Klong Klong,2
+NORP,Inderhaug,2
+PERSON,Chasing Waterfalls,2
+GPE,Japan,2
+CARDINAL,115,2
+ORG,digital,2
+ORG,VW Group,2
+DATE,twelve month,2
+QUANTITY,16 song evening,2
+ORG,Beethoven 10th Symphony,2
+PERSON,Andrea Cologne,2
+TIME,two hour,2
+PERSON,Robbie Williams,2
+DATE,today,2
+ORG,Wombo,2
+GPE,France,2
+DATE,early day,2
+PERSON,Terry Pratchett,2
+ORG,Maeve,2
+CARDINAL,12,2
+DATE,2007,2
+EVENT,Corona,2
+ORG,Adobe,2
+PERSON,Obama,2
+PERSON,Max Fuchs,2
+ORG,fed,2
+PERSON,Deep Fakes,2
+ORG,Google Lamda,2
+ORG,Gebru,2
+PERSON,Alex Hoffman,2
+ORG,Google AI,2
+PERSON,Siri,2
+ORG,University Tbingen,2
+ORG,Lamda Lemoine,2
+DATE,2024,2
+PERSON,Berlin Sdkreuz,2
+PERSON,Luria,2
+ORG,navy,2
+ORG,congress,2
+ORG,Discord,2
+PERSON,Josh Hartnett,2
+DATE,week ago,2
+DATE,April 2022,2
+PERSON,Dalle 2,2
+PERSON,Krampus,2
+GPE,Sweden,2
+ORG,Twitter,2
+PERSON,Kelly,2
+PERSON,Guy Kelly,2
+PERSON,Luke Skywalker,2
+PERSON,Darth Vader,2
+CARDINAL,100000,2
+NORP,italian,2
+PERSON,Alex,2
+ORG,iPad,2
+PERSON,Papers,2
+PERSON,Aidan Meller,2
+MISC,AI DA,2
+GPE,Scholz,2
+ORG,Near Future,2
+DATE,2029,2
+PERSON,Morris,2
+PERSON,Darwin,2
+PERSON,Eschborn,2
+PERSON,Smagin,2
+DATE,ten year ago,2
+ORG,Beethoven,2
+ORG,european partner institution imprison,2
+QUANTITY,26 66 million ton,2
+ORG,Ocean Cleanup,2
+NORP,norwegian,2
+ORG,Vanity Fair,2
+ORG,Loneliness,2
+DATE,January 19,2
+ORG,Precht,2
+ORG,Lanz,2
+PERSON,Matthias Schnsee,2
+PERSON,Seaclear,2
+ORG,Soldat AMP technology,2
+GPE,South Korea,2
+GPE,Norway,2
+PERSON,Johann Hellstrm,2
+PERSON,Tobias Moretti,2
+CARDINAL,eleven,2
+ORG,NDR,2
+DATE,mid December,2
+ORG,Poetron,2
+PERSON,Stefan Sosnowsai,2
+PERCENT,90 percent,2
+PERSON,Rob Smedley,2
+CARDINAL,20000,2
+PERSON,Kepler,2
+ORG,Science,2
+DATE,Autumn,2
+ORG,google security,2
+MISC,AI Companion,2
+DATE,month ago,2
+PERSON,Marian Klobasa,2
+PERSON,Lynn Kaack,2
+ORG,Boston Dynamics,2
+GPE,People Republic,2
+NORP,Croatian,2
+ORG,Midjourney Stable Diffusion,2
+ORG,Eidens,2
+ORG,Merck,2
+PERSON,Stock Homburg,2
+PERSON,Leap Time Lab,2
+PERSON,Krings,2
+PERSON,Anja Utler,2
+ORG,NASA,2
+DATE,October 2021,2
+ORG,Vettel,2
+DATE,past decade,2
+GPE,Lemoine,2
+CARDINAL,several thousand,2
+ORG,World Bank,2
+CARDINAL,40,2
+NORP,Engelmeier,2
+ORG,Village Data Analytics,2
+CARDINAL,58 million,2
+FAC,Munich Airport,2
+ORG,Biontech,2
+LOC,Africa,2
+NORP,Instadeep,2
+GPE,Files,2
+DATE,1984,2
+PERSON,Zenz,2
+PERSON,Adrian Zenz,2
+ORG,Uighers,2
+DATE,two year ago,2
+DATE,41 year old,2
+NORP,nglish,2
+PERSON,David Edmonds,2
+PERSON,Dotty,2
+PERSON,Theresa Hannig,2
+LOC,Mars,2
+DATE,17th century,2
+PERSON,Ayrton Senna,2
+ORG,ailogram,2
+PERSON,Barbara Banczyk,2
+NORP,austrian,2
+GPE,Dsseldorf,2
+CARDINAL,57000,2
+GPE,North Rhine Westphalia,2
+ORG,Kivi,2
+GPE,Zimmermann,2
+DATE,five day,2
+PERSON,bin,2
+PERSON,baker,2
+ORG,Daimler,2
+NORP,Foodforecast,2
+ORG,Thnen Institute,2
+PERSON,Friedrich Nietzsche,2
+PERSON,Cheng,2
+ORG,Fjellborg,2
+CARDINAL,50 million,2
+NORP,Humboldt,2
+ORG,Federal Ministry Economics,2
+ORG,Formula 1,2
+DATE,2009,2
+PERSON,Schnitzer,2
+DATE,1981,2
+PERSON,Daniel Kahneman,2
+ORG,Racoon,2
+CARDINAL,19,2
+GPE,Bavaria,2
+GPE,Switzerland,2
+LOC,Red Sea,2
+GPE,Washington,2
+PERSON,Max Planck,2
+GPE,Retorio,2
+CARDINAL,10000,2
+TIME,late afternoon,2
+LOC,Baltic Sea,2
+ORG,Kammel,2
+ORG,Oxford,2
+MONEY,100 billion,2
+GPE,Miami,2
+DATE,May,2
+ORG,NFT,2
+NORP,spanish,2
+GPE,Speechai,2
+PERSON,Edward Herrmann,2
+ORG,Bucher,2
+ORG,Hellstrm,2
+PERSON,Alphago,2
+GPE,Dresden,2
+PERSON,Sherry Turkle,2
+CARDINAL,15 million,2
+PERSON,Woebot,2
+PERSON,Darcy,2
+DATE,fourth quarter 2021,2
+PERSON,Ilya Sutskever,2
+DATE,August,2
+ORG,University Heidelberg,2
+GPE,Germany,2
+ORG,FOCUS Online,2
+PERSON,Lucia,2
+CARDINAL,2025,2
+ORG,KfW,2
+PERSON,Hagl,2
+ORG,Persike,2
+DATE,1980s,2
+PERSON,Alex Kolbe,2
+PERSON,Kolbe,2
+PERSON,Emma Braslavsky,2
+TIME,night,2
+CARDINAL,many million,2
+NORP,Russians,2
+ORG,Stuttgart,2
+DATE,quarterly,2
+DATE,three year,2
+NORP,European,2
+DATE,today,2
+ORG,Instagram,2
+NORP,Californian,2
+ORG,EU Parliament Council Ministers,2
+DATE,every year,2
+GPE,Argo Ai,2
+MONEY,16 billion,2
+GPE,Pittsburgh,2
+CARDINAL,25,2
+DATE,third quarter,2
+TIME,morning,2
+CARDINAL,27 billion,2
+DATE,week,2
+ORG,VW Ford,2
+DATE,Sunday,2
+MONEY,one billion dollar,2
+ORG,Amazon Web Services AWS,2
+PERSON,Blade Runner,2
+EVENT,World Cup,2
+ORG,PNR,2
+DATE,past month,2
+DATE,2012,2
+PERSON,Tesla Ai Day,2
+DATE,five year ago,2
+ORG,Honda,2
+CARDINAL,57,2
+PERSON,Isaac Asimov,2
+PERSON,Blake Lemoine Lamda,2
+PERSON,Hal 9000,2
+ORG,Meta,2
+DATE,seven eight year old,2
+MONEY,billion billion,2
+PERSON,States,2
+DATE,1950,2
+ORG,Deutsche Bank,2
+ORG,Christian Sewing,2
+PERSON,Vlad Kliatchko,2
+CARDINAL,23,2
+PERSON,Fraunhofer,2
+PERSON,Applied Ai,2
+ORG,euro,2
+CARDINAL,26,2
+CARDINAL,90,2
+ORG,German Teachers Association,2
+ORG,Nitsch,2
+PERSON,Dafne Keen,2
+CARDINAL,66,2
+PERSON,Yang,2
+DATE,November 30th,2
+PERSON,George Lucas,2
+DATE,third season,2
+PERSON,Tim Trageser,2
+PERSON,Klaus Steinbacher,2
+PERSON,Android,2
+GPE,Smith,2
+ORG,Dark Materials,2
+PERSON,Handmaid Tale,2
+PERSON,Gonzalez,2
+PERCENT,almost 40 percent,2
+PERSON,Nicola Schmidt,2
+PERSON,Pong,2
+CARDINAL,15 billion,2
+DATE,2022,2
+ORG,non echo,2
+GPE,Vietnam,2
+ORG,Vinfast,2
+GPE,netflix,2
+PERSON,Sachertorte,2
+PERSON,Aldi Zoff,2
+PERSON,Brandsttter,2
+PERSON,Ridley Scott,2
+DATE,decade,2
+ORG,sci,2
+PERSON,Markus Decker,2
+PERSON,Winfried Kretschmann,2
+CARDINAL,250,2
+ORG,Bundestag,2
+GPE,Middle Kingdom,2
+ORG,BYD Sixt,2
+CARDINAL,1200,2
+CARDINAL,81 ten,2
+PERSON,Ralf Brandsttter,2
+ORG,VW China,2
+PERCENT,60 percent,2
+MONEY,around 24 billion euro,2
+NORP,germans,2
+PERSON,Bryan Salesky,2
+DATE,six year,2
+ORG,Apollo,2
+PERSON,Robbie Williams,2
+NORP,vietnamese,2
+DATE,100000,2
+ORG,Andreas Urban,2
+ORG,FACTSET,2
+ORG,ISHARES AG,2
+CARDINAL,2022etf,2
+PERSON,Korian,2
+LOC,Europe 2030,2
+DATE,age 65,2
+DATE,1960,2
+PERSON,SAP siemens2,2
+PERSON,ASML two large,2
+QUANTITY,15 degree,2
+PRODUCT,Pab,2
+ORG,Climate,2
+ORG,AMP,2
+DATE,2050,2
+PRODUCT,Lyxor Net Zero,2
+PERCENT,2020 80 percent,2
+DATE,21st century,2
+ORDINAL,1st,2
+PERSON,Elon Musk Neuralink,2
+ORG,Berthold Albrecht,2
+CARDINAL,100 million,2
+ORG,Neuralink,2
+PERSON,ie00byzk4669,2
+PERSON,Green,2
+ORG,POPulation,2
+PERCENT,almost 30 percent,2
+CARDINAL,around half,2
+PERSON,Aldi North Clan,2
+PERSON,Tencent Alibaba Samsung,2
+CARDINAL,almost tenth,2
+PERSON,Tim Holzapfel,2
+NORP,asian,2
+PERSON,Msci Em,2
+DATE,August 2020,2
+LOC,Far East,2
+CARDINAL,almost two third,2
+ORG,TSMC Taiwan Semiconductor Manufacturing Company,2
+DATE,five 2022,2
+ORG,German Federal Motor Transport Authority,2
+ORG,Big Data,2
+PERCENT,2021 40 percent,2
+ORG,Nvidia Google,2
+ORG,Daimler Volkswagen Tesla BYD,2
+ORG,cars2022,2
+PERCENT,almost 50 percent,2
+PERSON,Maurice Mersinger,1
+PERSON,Angus Lee,1
+PERSON,Aplomb Eir Inderhaug,1
+PERSON,Sven Sren Beyer,1
+PERSON,Kempten,1
+QUANTITY,six ton,1
+CARDINAL,3200 four,1
+PERSON,Peter Herweck,1
+PERSON,Jean Pierre Hacquin,1
+PERSON,Allgu,1
+PERSON,Huber,1
+GPE,Aveva,1
+ORG,Siemens Schneider Electric,1
+MISC,AI Machine Learning,1
+PERSON,Covestro Aveva,1
+CARDINAL,4000,1
+ORG,Techem,1
+ORDINAL,tenth,1
+PERSON,Angelika Nollert,1
+ORG,Deutsche,1
+GPE,Los Angeles Anadol,1
+PERSON,Istanbul Anadol,1
+DATE,1985,1
+GPE,Istanbul,1
+ORG,Kempten University Applied Sciences,1
+GPE,Los Angeles,1
+DATE,eight year,1
+ORG,RAS Lab,1
+ORG,Design Media Arts School,1
+CARDINAL,74000,1
+PERSON,Christiane Neudecker,1
+ORG,Modern Pinakothek,1
+PERSON,Moderne,1
+PERSON,Design Museum,1
+PRODUCT,Anadol,1
+TIME,four minute,1
+PERSON,Dresden Semperoper,1
+ORG,Waterfall,1
+TIME,seventy minute,1
+PERSON,Frieder Heieck,1
+PERSON,Peter Ganten,1
+PERSON,Munich Sdbad,1
+TIME,15 hour,1
+PERSON,Ganten,1
+PERSON,Martini Kemper,1
+ORG,Good Robots Enhance Human Life,1
+PERSON,Good Robots,1
+PERSON,Kevin Warwick,1
+TIME,single minute,1
+PERSON,Anthony Bourdain,1
+PERSON,Bourdain,1
+PERSON,Val Kilmer,1
+ORG,Veritone,1
+ORG,ACX,1
+CARDINAL,intelligently,1
+PERSON,Ina Schneider,1
+ORG,Allianz,1
+CARDINAL,hundred,1
+ORG,Amadeus Magrabi start Building Minds,1
+PERSON,Cenk Tabakolu,1
+QUANTITY,million ailometer ton,1
+DATE,2000,1
+PERSON,Pad Sdbad,1
+ORG,Open Source Business Alliance,1
+GPE,Lynxight,1
+GPE,Tel Aviv,1
+DATE,60 day,1
+GPE,Sdbad,1
+PERSON,Wiesbadener,1
+GPE,Hallenbad Kleinfeldchen,1
+PERSON,Thomas Baum,1
+PERSON,Munich Sdbad AI,1
+PERSON,new hobby social,1
+PERSON,E2 Midjourney,1
+ORG,Chatplattform Discord,1
+CARDINAL,460,1
+ORG,Promptbase Super Prompts Neutron Field,1
+ORG,Pastel,1
+ORG,Futuristic City Dome,1
+ORG,Adobe Group,1
+ORG,HRW,1
+QUANTITY,five meter,1
+DATE,five year,1
+ORG,Google Pay,1
+CARDINAL,500 600,1
+TIME,22 minute,1
+PERCENT,ten 80 percent,1
+CARDINAL,3d,1
+NORP,macan,1
+PERSON,Oliver Blume Cariad,1
+PERSON,difficulty Herbert Diess,1
+TIME,first hour,1
+LAW,Auto 30,1
+CARDINAL,2027,1
+PRODUCT,M1,1
+PRODUCT,Q6,1
+ORG,Gilchingen,1
+PERSON,Audeering Dagmar Schuller,1
+ORG,Schuller,1
+PERSON,Dagmar Schuller,1
+ORG,Schuller,1
+PERSON,Armin Heil,1
+CARDINAL,700,1
+CARDINAL,750,1
+ORDINAL,30th,1
+ORG,RSPorsche,1
+PERSON,Telekom,1
+ORG,European Insurance Supervisory Affairs EIOPA,1
+PERSON,Audi Porsche,1
+ORG,Super Stromers,1
+ORG,Newton,1
+ORG,Porsche Cayenne,1
+ORG,PPE,1
+GPE,China Korea,1
+DATE,next IAA September 2023,1
+EVENT,LA Auto Show,1
+DATE,March 2024,1
+DATE,75000,1
+PRODUCT,Q6,1
+ORG,Macan E Leipzig,1
+ORG,Ingolstadt,1
+CARDINAL,96,1
+CARDINAL,400 500,1
+DATE,Sunday October,1
+PERSON,Annemarie Ludwig,1
+ORG,Apple Face,1
+CARDINAL,512,1
+DATE,1080 2400,1
+CARDINAL,416,1
+PERCENT,21 percent,1
+PERSON,Snapchat Instagram Pixel,1
+QUANTITY,113 inch,1
+CARDINAL,185,1
+CARDINAL,6,1
+DATE,6,1
+DATE,one year,1
+LAW,Pixel 7 7,1
+QUANTITY,4 k resolution 60,1
+PERSON,Recorder,1
+ORG,Google Phones,1
+ORG,WhatsApp,1
+TIME,ten hour,1
+TIME,quarter hour,1
+ORG,Apple iPhone,1
+CARDINAL,120,1
+ORG,LTPO,1
+GPE,Starnberg,1
+DATE,1440 3120,1
+ORG,Paro Evangelical Academy Tutzing,1
+ORG,Academy,1
+ORG,German Museum Munich,1
+PERSON,Hendrik Meyer Magister,1
+QUANTITY,60 centimeter,1
+DATE,40 year,1
+PERSON,Apps,1
+CARDINAL,almost 28 million,1
+ORG,Samsung,1
+DATE,five week,1
+ORG,Apple Google,1
+NORP,G2,1
+ORG,Google Pixel,1
+PERSON,hazel snow,1
+PERSON,Hazel,1
+CARDINAL,6 6,1
+QUANTITY,67 inch,1
+PERSON,Petra Hielkema,1
+PERCENT,almost 15 percent,1
+ORG,EUThe Commission,1
+PERSON,Michelin,1
+CARDINAL,18 million,1
+ORG,euro,1
+PRODUCT,Erdinger Ring,1
+ORG,Terminal 1,1
+PERSON,Campus,1
+ORG,american tech,1
+PERSON,Jan Henrik Andersson,1
+ORG,Andersson,1
+ORG,Bavaria Ministry Transport Bavaria Ministry Transport,1
+ORG,Germany Deutsche Bahn,1
+ORG,Jost Lammers Task Force,1
+DATE,last autumn,1
+ORG,Free State Lufthansa,1
+PERSON,Tobias Engelmeier,1
+GPE,Asia Africa,1
+GPE,India,1
+GPE,Papua New Guinea,1
+ORG,International Finance Corporation,1
+CARDINAL,2021Among,1
+PERSON,Nathalie Leroy,1
+PERCENT,ten percent,1
+CARDINAL,almost 10000,1
+PERSON,Karim Beguir,1
+DATE,two year,1
+CARDINAL,261 million,1
+DATE,year 2019 year 2021,1
+CARDINAL,around 125 million,1
+QUANTITY,around 173000 ton,1
+GPE,Pathos,1
+PERSON,Jost Lammers,1
+FAC,Easter holiday Airport,1
+DATE,13450,1
+PERCENT,around 70 percent,1
+DATE,2019 last Sunday,1
+DATE,one day many last March 1 2020,1
+NORP,Lammers,1
+PRODUCT,Terminal 1,1
+ORG,Lammers,1
+CARDINAL,almost 1400,1
+DATE,eight month,1
+QUANTITY,around 250000 euro,1
+PERSON,Munich Engelmeier,1
+WORKOFART,AI,1
+MISC,AIra,1
+PERSON,Stefan Fischer,1
+PERSON,HAL 2001,1
+PERSON,Eve Difficult,1
+PERSON,Taylor Fullerton,1
+ORG,MSC,1
+LOC,middle climatic,1
+ORG,Gimlet,1
+PERSON,Aurelie von Blazekovic,1
+PERSON,Stalinism George Orwell,1
+NORP,Orwellian,1
+PERSON,Klaus Buhlert,1
+ORG,Orwell,1
+PERSON,Elisa Plss Felix,1
+PERSON,Jens Harzer,1
+PERSON,Buhlert,1
+GPE,here1984,1
+PERSON,Marie Luise Goerke Matthias Pusch,1
+PERSON,Fynn,1
+CARDINAL,2014,1
+MISC,AIra AI,1
+ORG,Copernicus,1
+ORG,Planet Maxar Technologies,1
+PERSON,Tum,1
+DATE,February 2021,1
+NORP,Paaistan,1
+ORG,Sierra Leone,1
+PERSON,Google Map,1
+ORG,Applied AI,1
+PERSON,Engelmeier,1
+ORG,Beata,1
+PERSON,Pedro,1
+CARDINAL,2019now,1
+PERSON,Lorenz Schuster,1
+CARDINAL,05,1
+PERSON,Emma Braslavsky Kluge,1
+TIME,905 pm,1
+PERSON,ardaudiothekde fynn,1
+ORG,Mainzers,1
+ORG,Dubai Paris,1
+ORG,Artificial Intelligence Act,1
+DATE,eighteen month,1
+ORG,Chat Program Lamda,1
+CARDINAL,16 trillion,1
+CARDINAL,two million,1
+WORKOFART,Bible,1
+PERSON,Meredith Whitaker,1
+GPE,Kinkerlitzchen,1
+ORG,Google Meta,1
+PERSON,Dotty,1
+ORDINAL,sixth,1
+ORG,Lagos Nigerian Cape,1
+PERSON,Dotty Android,1
+PERSON,Martin,1
+ORG,Safaripark,1
+CARDINAL,twenty five,1
+PERSON,Son Ricky,1
+PERSON,Philosophy Bites,1
+CARDINAL,35million,1
+PERSON,Bertie Fraser,1
+QUANTITY,1300 gram,1
+PERSON,supercomputer people,1
+DATE,1699,1
+PERSON,Pantopia Fischer,1
+PERSON,Lamda AI,1
+PERSON,Patricia Jung Henry Shevek,1
+PERSON,Patricia Henry von Eincht,1
+PERSON,Frstenfeldbruck Fischer Tor Verlag,1
+ORG,Pantopia Pantopay,1
+PERSON,Digit,1
+LOC,Fantastics Prize,1
+PERSON,Wetzlar,1
+PERSON,Immanuel Kant,1
+PERSON,Stefan Lbbe Seraph,1
+ORG,Plato Politeia,1
+DATE,summer 2020,1
+EVENT,Ukraine War,1
+DATE,February 25th,1
+DATE,38 year old,1
+GPE,symposia,1
+NORP,Frstenfeldbruck Greens,1
+CARDINAL,around one million,1
+PERSON,Bertie Frazer,1
+DATE,first year,1
+ORG,Amnesty International AI,1
+PERSON,Bachelet,1
+GPE,Konashher,1
+PERCENT,twelve percent,1
+CARDINAL,64,1
+CARDINAL,12 million,1
+NORP,Muslim,1
+NORP,tunisian,1
+WORKOFART,La Porte,1
+PERSON,Tatoine,1
+GPE,Karim Beguir,1
+LANGUAGE,Tunis,1
+FAC,Deepmind London,1
+GPE,South Africa,1
+DATE,six month later,1
+DATE,far year,1
+DATE,January,1
+NORP,Tunis,1
+GPE,Uighers Ai,1
+GPE,Bachelet,1
+PERSON,Henriette Zeltner,1
+DATE,Monday one week,1
+CARDINAL,251,1
+PRODUCT,Lamda,1
+CARDINAL,one half trillion,1
+PERSON,Margaret Mitchell,1
+NORP,Lamda,1
+PRODUCT,GPT 3 language,1
+GPE,Xinjiang,1
+GPE,West Province,1
+NORP,muslim,1
+DATE,first time year ago,1
+PERSON,Genocide Xinjiang,1
+ORG,USA Victims Communism Memorial Foundation,1
+ORG,Spiegel Bavarian Radio,1
+ORG,BBC,1
+NORP,Adrian,1
+ORG,Konasheher Tekes,1
+PERSON,Michelle Bachelet,1
+PERSON,Elphi Ki,1
+PERSON,Holly Hunter News,1
+GPE,Hamburg,1
+ORDINAL,2at,1
+ORG,University Applied Sciences Hamburg HAW,1
+PERSON,Netzwelt,1
+ORG,SPIEGEL,1
+PERSON,Siris Alexas,1
+ORG,Openai Foundation,1
+PERSON,Marcus John Henry Brown,1
+PERSON,beard glass,1
+PERSON,Brown,1
+PERSON,Bitcoin,1
+ORG,justifie,1
+ORG,Google call Lamda,1
+PERSON,Neil Gaiman,1
+PERSON,Thomas Metzinger,1
+PERSON,Metzinger,1
+GPE,Korea,1
+NORP,Sprache,1
+ORG,Hacker News,1
+ORG,Google Microsoft,1
+DATE,autumn 2016,1
+DATE,1973,1
+ORG,Christian Stcker,1
+DATE,seven year old,1
+PERSON,Offenbach Spiegel,1
+ORG,Marlon Brando,1
+PERSON,Monstermacher Guy Kelly,1
+PERSON,Alpine,1
+ORG,Craiyon Kelly,1
+PERSON,Spiegel,1
+ORG,Metal band Gwar inspire Crungus,1
+ORG,Urungus,1
+ORG,byte,1
+PERSON,Gwar,1
+PERSON,Berg,1
+PERSON,Chatsystem Lamda,1
+PERSON,Lamda Language Model Dialogue,1
+ORG,Big Technology,1
+PERSON,Blake,1
+ORG,Reuters,1
+DATE,Lamda year ago,1
+NORP,Indonesian,1
+NORP,Catalan,1
+NORP,indian,1
+PERSON,Nintendo Switch,1
+CARDINAL,27,1
+GPE,Rome,1
+ORG,Wolfgang Konen Cologne University Technology,1
+ORG,Imagen,1
+PERSON,Dall E VQGAN LDM Google,1
+PERSON,Software,1
+PERSON,Ronald McDonald,1
+PERSON,Adolf Hitler,1
+PERSON,Boris Dayma Dall,1
+NORP,Dayma,1
+PERSON,Mini,1
+MISC,AI Bias,1
+PERSON,Konen,1
+CARDINAL,thousand,1
+PERSON,Lamda,1
+CARDINAL,41,1
+DATE,Lamda year ago,1
+TIME,three minute,1
+GPE,Pikachu,1
+CARDINAL,46,1
+PERSON,Darth Vader mow lawn,1
+ORG,USA China,1
+ORG,Technology Review,1
+PERSON,Grandma,1
+PERSON,Wizard Oz,1
+PERSON,Rohit Prasad,1
+ORG,Amazon Mars,1
+ORG,Voco,1
+GPE,Lyrebird,1
+NORP,Lyrebird,1
+PERSON,Descript,1
+ORG,Google Microsoft Nuance,1
+PRODUCT,Alexa,1
+PERSON,Darth Vader,1
+MISC,AI Imagen,1
+PERSON,Jesus,1
+ORG,Ferrari Batman,1
+NORP,Reddit,1
+MISC,AI laboratory University,1
+PERSON,Loab AI,1
+ORG,Super Composite,1
+PERSON,Theresa,1
+ORG,Ai DA,1
+MISC,AI DA Humanoid,1
+PERSON,Robot Ai da,1
+CARDINAL,2019In,1
+GPE,Egypt,1
+PERSON,Giza,1
+PERSON,Meller,1
+PERSON,Meller,1
+FAC,Dice Versa,1
+DATE,4 year,1
+DATE,eight year ago,1
+PRODUCT,iPhones Android,1
+DATE,18 year,1
+PERSON,Paragraph Ai,1
+ORG,blue house,1
+ORG,King England,1
+PERSON,Elisabeth II 20,1
+MISC,AI DA,1
+DATE,nice week,1
+PRODUCT,Chrome,1
+GPE,Musk Generate,1
+PERSON,Welle Szdepodcast Tipps,1
+CARDINAL,13,1
+ORG,Dall E Stable Diffusion Midjourney,1
+TIME,6 reading minute,1
+ORG,Flusi,1
+LAW,40microsoft,1
+ORG,Hughes,1
+GPE,Oregon,1
+PERSON,George W Bush,1
+PERSON,Tony Blair,1
+PERSON,Jrg Breithut,1
+PERSON,Elon Musk Mr,1
+PERSON,Burns,1
+TIME,three reading minute,1
+GPE,New Republic,1
+TIME,English 40 minute,1
+MONEY,eight dollar,1
+QUANTITY,around 25 euro,1
+DATE,13 year 20,1
+NORP,Creepypasta,1
+DATE,91 year old,1
+ORG,Vader,1
+PERSON,Responsuant Jones,1
+MISC,AI future Resperschecher,1
+ORG,DisneyThe,1
+ORG,Google Amazon,1
+PERSON,Aflorithmic Descript,1
+GPE,Lyrebird,1
+PERSON,Craiyon,1
+ORG,Craiyon,1
+CARDINAL,almost 20 million,1
+ORG,ETto,1
+ORG,Super Composite Uppsala,1
+PERSON,Marlon Brando,1
+PERSON,Digita Pntics,1
+ORG,Marlon Brando AI,1
+PERSON,Loab Twitter,1
+ORG,Loab Super Composite,1
+PERSON,Matthew Wood,1
+NORP,Ukrainians,1
+CARDINAL,2,1
+GPE,Kiev,1
+ORG,Renaissance,1
+DATE,first month,1
+MONEY,around 15 million Discord Community,1
+DATE,September 28,1
+DATE,today 2015,1
+ORG,Openai Research Association,1
+PERSON,Sam Altman,1
+ORG,Research,1
+ORG,Openai LT,1
+ORG,Openai Inc,1
+DATE,91 year old,1
+DATE,series45 year first,1
+DATE,1970s,1
+PERSON,Wan Kenobi Disney,1
+ORG,Vanity Fair Jones,1
+PERSON,David ProWse Rogue,1
+PERSON,Bistrevsky Tom OConnell,1
+DATE,autumn 2021,1
+ORG,Washington Post Guardian,1
+ORG,Software,1
+PERCENT,around 75 percent,1
+DATE,mid 1990,1
+PERSON,Jane Eyre,1
+DATE,late year,1
+DATE,252 million year ago,1
+PERSON,Perm Triass,1
+DATE,252 million year ago,1
+LOC,Siberia,1
+QUANTITY,ten degree,1
+PERCENT,around ninety percent,1
+ORG,Lemoine AI,1
+PERSON,William Foster,1
+DATE,1283,1
+PERSON,Foster,1
+PERSON,Luminar Neo,1
+PRODUCT,Skylum,1
+CARDINAL,101with,1
+PERSON,Photoshop Lightroom,1
+QUANTITY,around 80,1
+PERSON,Franco Zeffirelli,1
+EVENT,Infinity War 2018 Black Widow,1
+PERSON,Moby Dick,1
+PERSON,Ahab,1
+PERSON,Lou Reed,1
+ORG,Juillard School,1
+PERSON,Edmund Eugene Neill,1
+DATE,Leary 1988,1
+PERSON,Body Heat,1
+PERSON,Lawrence Kasdan,1
+PERSON,Michael Althen,1
+PERSON,Hurt,1
+DATE,Years,1
+PERSON,Sandrine Bonnaire,1
+GPE,Hurt,1
+PERSON,Bonnaire,1
+PERSON,Wim Wenders,1
+PERSON,Stephen Spielberg AI Artificial Intelligence,1
+PERSON,David Cronenberg History,1
+ORG,Hanson,1
+DATE,2011,1
+QUANTITY,almost twelve euro,1
+ORG,Skylum US,1
+PERSON,Ukraine luminar,1
+PERSON,awaken,1
+ORG,Wombo Dream,1
+ORG,Hulk,1
+PERSON,Psychic,1
+CARDINAL,almost five,1
+PERSON,Marvel,1
+PERSON,Danny Devito,1
+PERSON,Cristiano Ronaldo,1
+GPE,white jersey,1
+ORG,Next,1
+DATE,monthly,1
+PERSON,Micky Mouse,1
+ORDINAL,First,1
+GPE,Marvel,1
+FAC,Hulk place,1
+ORG,Hugo Sinzheimer Institute Hans Bckler Foundation,1
+ORG,Sddeutsche Zeitung Frankfurt University,1
+PERSON,Waas,1
+DATE,130000,1
+PERSON,Engineered Arts,1
+PERSON,Adobe Lightroom,1
+PERSON,Jackson,1
+PERSON,Adobe,1
+ORG,Horizon Forbidden West,1
+PRODUCT,Playstation,1
+LAW,PlayStation 4 PlayStation 5,1
+PERSON,Forbidden West,1
+WORKOFART,Horizon Zero Dawn,1
+PERSON,Aloy,1
+PRODUCT,PlayStation,1
+PRODUCT,PlayStation 4,1
+ORG,Sony,1
+ORG,Forbidden West,1
+FAC,Horizon Forbidden West,1
+TIME,25 hour,1
+TIME,100 hour,1
+TIME,hour,1
+ORG,Engineered Arts,1
+ORG,Jackson Managing Director Engineered Arts,1
+ORG,Renitenz,1
+PERSON,Suff,1
+PERSON,Spider,1
+CARDINAL,130,1
+CARDINAL,212,1
+MONEY,40908 billion euro,1
+QUANTITY,almost 41 billion euro,1
+ORG,Eurofighter,1
+ORG,F35,1
+PRODUCT,Air Force,1
+PERSON,Editor,1
+PERSON,Puma,1
+ORG,Air Force navy,1
+PERSON,Sedar Soares,1
+DATE,19 year ago,1
+NORP,dutch,1
+DATE,2003 age 13,1
+PERSON,Janet,1
+LANGUAGE,Sedar,1
+PRODUCT,Sedar,1
+DATE,February 2003,1
+CARDINAL,126,1
+DATE,year sea force,1
+ORG,NOS,1
+NORP,Puma,1
+PERSON,Lemoin,1
+ORG,Eliza,1
+DATE,1965,1
+PERSON,Joseph Weizenbaum,1
+MISC,AI Bundeswehr,1
+PERSON,Olaf Scholz,1
+TIME,late Sunday evening,1
+DATE,next Friday,1
+QUANTITY,422 million euro,1
+ORG,Navwar NAV Igation Fare,1
+QUANTITY,1932 billion euro,1
+ORG,Defense,1
+PERSON,Christine Lambrecht,1
+QUANTITY,20742 billion,1
+MONEY,21 billion euro,1
+ORG,Bundeswehr,1
+MONEY,166 billion euro,1
+PRODUCT,Sedar Soares,1
+ORG,Deeppake However,1
+PERSON,Robert de Niro Marlon Brando,1
+PRODUCT,Stargate Ai,1
+WORKOFART,Pathways Language Model short Palm call Google,1
+LOC,Leon,1
+ORG,Palm,1
+DATE,6144,1
+CARDINAL,540 billion,1
+PERSON,Language Ais,1
+PERSON,Glam Gopher Chinchilla,1
+ORG,Github,1
+ORDINAL,third,1
+PERSON,William Hurt,1
+PERSON,Kathleen Turner Body Heat,1
+DATE,1987,1
+DATE,1986,1
+DATE,July two,1
+ORDINAL,72nd,1
+CARDINAL,eighty,1
+PERSON,Hctor Babenco,1
+PERSON,emoji,1
+PERSON,Brad Wright Twitter,1
+PERSON,aill boy,1
+PRODUCT,Atlantis 40,1
+PERSON,Stargate,1
+PERSON,Carter,1
+PRODUCT,Companion,1
+PERSON,Amanda Tapping,1
+PERSON,Richard Dean,1
+PERSON,Jack Neill Stargate AI,1
+ORG,Neill,1
+PERSON,Richard Dean Anderson,1
+PERSON,Brad Wright,1
+DATE,around 25 year,1
+DATE,June last year,1
+PERSON,Wright,1
+PERSON,Google Moroney,1
+GPE,Venturebeat,1
+WORKOFART,Universal Sentence Encoder,1
+CARDINAL,190,1
+LAW,SG 1,1
+WORKOFART,Love,1
+PERSON,Bertolt Brecht,1
+DATE,mid 20th century,1
+CARDINAL,71,1
+DATE,December last year,1
+PERSON,Grimes,1
+ORG,Exa Dark Siderl Grimes,1
+ORG,Exa,1
+LOC,Exaflops Dark,1
+ORG,Siderl,1
+DATE,one year old,1
+ORG,SR,1
+DATE,May 2020,1
+ORG,Lanz Precht,1
+GPE,Australia,1
+GPE,SB,1
+PERCENT,89 percent,1
+FAC,Hamburg SB,1
+PERSON,Patrick Kilian,1
+EVENT,Cold War,1
+PERSON,Elon Musk Mission,1
+PRODUCT,Artemis,1
+PERSON,Elon Musk,1
+DATE,20th century,1
+PERSON,Picasso,1
+PERSON,Solus,1
+ORG,crown,1
+PERSON,Cora Schumacher,1
+PERSON,David Odonkor,1
+GPE,Diakovska,1
+PERSON,Sarah Kern,1
+PERSON,Heinz Hoenig,1
+CARDINAL,two,1
+WORKOFART,Cologne Rhingine Gold Institute,1
+NORP,Untermelancovid,1
+ORG,Nomi Seewer,1
+PERSON,University Bern,1
+ORG,University Bern,1
+PERSON,Bundestag,1
+DATE,age 30 65,1
+DATE,age 30 60,1
+DATE,60 year old,1
+PRODUCT,Solus,1
+DATE,1958,1
+NORP,Mars Humanity,1
+DATE,2016with,1
+ORG,XXV,1
+DATE,February 1 2023,1
+ORG,Reeperbahn,1
+ORG,Liverpool,1
+CARDINAL,221114,1
+CARDINAL,99,1
+DATE,5189234,1
+ORG,Meta,1
+ORG,Tiktok,1
+MONEY,seven billion,1
+ORG,Wall Street Journal,1
+CARDINAL,62 billion,1
+DATE,18 year old,1
+GPE,Menlo Park,1
+CARDINAL,39 billion,1
+CARDINAL,118 billion,1
+MONEY,439 billion,1
+DATE,last quarter,1
+ORG,Elphi,1
+PRODUCT,Angels,1
+DATE,July 16 2019,1
+FAC,Telekom Street,1
+DATE,early 2013,1
+PERSON,Nick Bostrom,1
+CARDINAL,Musk,1
+DATE,April,1
+GPE,Makake,1
+CARDINAL,N1,1
+DATE,1024,1
+PRODUCT,Pager,1
+PERSON,Mindpong,1
+PERSON,Pager,1
+ORG,Davis Primate Center University,1
+EVENT,Second World War,1
+GPE,US,1
+WORKOFART,Elphi,1
+ORG,Elbphilharmonie,1
+DATE,48 year old,1
+DATE,25 year,1
+DATE,last 14 day,1
+DATE,67 year old,1
+PERSON,Lew Pontrjagin,1
+PERSON,Brecht,1
+PERSON,Steven Soderbergh,1
+GPE,Pandemien,1
+ORG,Bayern Munich,1
+ORG,linear TV,1
+QUANTITY,815 pm,1
+DATE,week later,1
+NORP,African,1
+DATE,yesterday,1
+DATE,tomorrow day,1
+PERSON,SchnitzerSentence,1
+PERSON,Feilschen,1
+ORG,United Nations,1
+DATE,seven year,1
+ORG,UN Convention Weapons,1
+PERSON,Joshua Dorosin,1
+GPE,Austria Ireland Mexico,1
+PERSON,Thomas Kchmeister,1
+PERSON,Antnio Guterres,1
+PERSON,Wolfgang Petersen,1
+GPE,Afghanistan,1
+GPE,Somalia,1
+GPE,Bundeswehr,1
+PERSON,David Baker,1
+MISC,AI one,1
+PERSON,Deepmind Baker,1
+WORKOFART,Nature,1
+DATE,Wednesday,1
+TIME,815 pm,1
+WORKOFART,Das Haus Tobias Moretti,1
+PERSON,Christian Granderath,1
+PERSON,Smog Das Griel Welt,1
+PERSON,Wire Rainer Werner Fassbinder,1
+PERSON,Rainer Erler ZDF,1
+PERSON,Hattendorf,1
+PERSON,Martina Zoellner,1
+ORG,RBB,1
+WORKOFART,Suhrkamp Verlag,1
+CARDINAL,Three,1
+MISC,AIA,1
+ORG,Red Cross,1
+EVENT,Human Rights Watch,1
+GPE,Great Britain,1
+ORG,Christian Kerepeszai,1
+PERSON,Alban Zapata,1
+PERSON,Rebecca Raue Moritz Schick,1
+PERSON,Scheng Chinese,1
+NORP,Japanese,1
+PERSON,Koto,1
+ORG,Cymin Samawatie Ketan Bhatti Niko Meinold,1
+DATE,4591012,1
+DATE,past year,1
+PERSON,Markus Lanz,1
+DATE,200 year one,1
+GPE,Kenza,1
+PERSON,Si Abbou,1
+DATE,100 year ago,1
+CARDINAL,almost 40,1
+PERSON,Ait Si Abbou,1
+MONEY,900 billion euro,1
+MONEY,around 350 billion euro,1
+PERSON,Clara Maya,1
+PERSON,Hansa Czypionka,1
+ORG,Peace Research Institute,1
+PERSON,Despot Maestro,1
+GPE,Stockholm,1
+CARDINAL,381,1
+GPE,North Korea,1
+CARDINAL,march,1
+ORG,Rafael Advanced Defense Systems,1
+ORG,TROGY THANGEFULLY,1
+LOC,Arcas,1
+ORG,German Bundeswehr Association,1
+PERSON,Berg Karabach,1
+ORG,Kamikaze,1
+ORG,KNDS,1
+ORG,Rheinmetall,1
+ORG,Rheinmetall,1
+ORG,Berlin Philharmonic,1
+ORG,Deutsche Telekom,1
+PERSON,Moritz Rinke,1
+ORG,Neukllner Opera,1
+ORG,Procter Gamble Coca Cola McDonald,1
+DATE,quarter quarter Bets,1
+PERSON,James Cramer,1
+ORG,Machine Learning Literacy,1
+ORG,Hertie School Berlin,1
+PERSON,Change Ai,1
+DATE,June year,1
+ORG,al 2022,1
+MISC,AI CO,1
+MISC,AI Ki,1
+PERCENT,one two percent,1
+PERSON,Heike Brugger Fraunhofer Isi,1
+PERSON,Lynn Kaack,1
+DATE,day ago,1
+CARDINAL,five,1
+DATE,July 1st,1
+ORG,Federal Government AI,1
+PRODUCT,Agenda,1
+ORG,Heinrich Bll Foundation,1
+ORG,Energy Management Intelligent network Fraunhofer Institute System Innovation Research,1
+PERSON,ISI Karlsruhe,1
+GPE,Massachusetts,1
+ORG,Dodge,1
+ORG,CO,1
+GPE,USA,1
+CARDINAL,160000,1
+PERSON,China VW,1
+PERCENT,50 60 percent,1
+CARDINAL,2030however,1
+PERSON,Conti,1
+PRODUCT,traffic Chef Kai Yu,1
+ORG,China VW,1
+ORG,Wolfsburg DPA Infocom,1
+DATE,99 1137114,1
+CARDINAL,two,1
+PRODUCT,Optimus,1
+NORP,Optimus,1
+CARDINAL,73,1
+NORP,Tesla,1
+DATE,Musk one,1
+PERSON,Optimus,1
+NORP,south korean,1
+ORG,Hyundai,1
+GPE,Strubell,1
+PERSON,al 2019,1
+PERSON,Heike Brugger,1
+PERSON,Kenneth Cuaier Francis de Vricourt,1
+ORG,Machine Learning,1
+PERSON,Mayer Schnberger,1
+PERSON,Deep Learning,1
+CARDINAL,CO2,1
+ORG,Stralsund University Applied Sciences exchange,1
+DATE,many year ago,1
+DATE,1980,1
+ORG,Faculty Mechanical Engineering,1
+PRODUCT,Industry 40,1
+MISC,Reinforcement Learning,1
+PERSON,Andreas Bracher Max Planck Institute Biochemistry Martinsried Ki,1
+ORG,Omikron,1
+PERSON,Holden Thorp,1
+MONEY,hundred thousand dollar,1
+PERSON,Alphafold Rosettofold,1
+PERSON,John Jumper,1
+WORKOFART,Nature,1
+PERSON,Viktor Mayer Schnberger,1
+ORG,Framers,1
+DATE,19th century,1
+ORG,Oxford Internet Institute,1
+ORG,objectsclassifie,1
+PERSON,Hegel,1
+CARDINAL,1a,1
+GPE,Replica,1
+GPE,Prometheus,1
+PERSON,Arnold Schwarzenegger,1
+DATE,replica day,1
+PERSON,Robert,1
+MISC,AI Companions,1
+PERSON,Edward Hopper,1
+PERSON,Replica,1
+PERSON,Forrest,1
+ORG,Future Today Institutes,1
+QUANTITY,three 14,1
+LAW,chapter first,1
+ORG,Webb,1
+PERSON,Viktor Mayer Schnberger,1
+PERSON,Dirk Hilgenberg,1
+MONEY,13 billion euro,1
+ORG,Microsoft Office,1
+DATE,one year average year,1
+ORG,Digital,1
+EVENT,Corona,1
+DATE,autumn,1
+NORP,Central Europeans,1
+PERSON,Georg Trakl,1
+PERSON,Stefan Zweig,1
+PERSON,Rainer Maria Rilke,1
+ORG,Rilke,1
+PERSON,Push,1
+PERSON,Rilkeschen,1
+PERSON,Bertolt Brechts,1
+CARDINAL,540,1
+CARDINAL,9460000,1
+PRODUCT,GPT 3researche,1
+WORKOFART,Open Ai,1
+ORG,Wiaipedia,1
+ORG,Half Wiaipedia,1
+PERSON,Fugmann,1
+ORG,Center Technology School Change Columbia University,1
+CARDINAL,27 million,1
+GPE,Oakland,1
+ORG,META,1
+MONEY,300 billion,1
+CARDINAL,around 40 billion,1
+MONEY,200 billion,1
+PERSON,Facebook Messenger WhatsApp Reality Labs AI,1
+CARDINAL,100 billion,1
+ORG,Altimeter Capital,1
+PERSON,Altimeter,1
+PERSON,Brad Gerstner,1
+PERSON,Gerstner,1
+PERSON,verse bet,1
+PERCENT,24 percent,1
+PERSON,Level,1
+DATE,2016,1
+PERSON,Martin Fugmann,1
+PERSON,Evangelical Abbey Gymnasium,1
+DATE,2010 2016,1
+PERSON,Lsjbot,1
+PRODUCT,Jack Kerouac,1
+ORG,Meta Google Microsoft,1
+PERSON,Merck Dietmar Eidens,1
+QUANTITY,three million euro,1
+DATE,221014 99 1251602,1
+ORG,PowerPoint,1
+CARDINAL,hundreds,1
+PRODUCT,Word Excel PowerPoint,1
+CARDINAL,365,1
+MISC,AI Dall,1
+PRODUCT,Bing Image Creator,1
+PRODUCT,Bing,1
+DATE,15 every month,1
+MONEY,billion US dollar,1
+FAC,Dallai 2020,1
+ORG,Mattel RTL Germany,1
+PERSON,Creator Bing,1
+MISC,AI Microsoft,1
+DATE,early later,1
+ORG,Venturebeat,1
+MISC,AIT,1
+ORG,Technical University Darmstadt,1
+DATE,autumn,1
+PERSON,Ruth Stock Homburg,1
+PERSON,Argo Ai Volkswagen,1
+CARDINAL,827 million third quarter,1
+CARDINAL,2019VW,1
+FAC,Moia Hamburg,1
+CARDINAL,26 billion,1
+CARDINAL,around 500 million,1
+ORG,Cariad,1
+ORG,VWS,1
+PERSON,Hanover van,1
+PERSON,Lena,1
+ORG,Enterprise,1
+ORG,Bettina Johanna Krings Institute Technology Assessment System Analysis Karlsruhe Institute Technology KIT,1
+DATE,eight week,1
+ORG,Leap Time Lab Darmstadt,1
+PERSON,Robo,1
+ORG,Jil Amy Leber,1
+PERSON,Julia Gimbel,1
+PERSON,Rosettofold,1
+DATE,September,1
+QUANTITY,50 million euro,1
+ORG,Biohotel Stanglwirt,1
+ORG,Benediktbeuern Munich Birgit Schaufler,1
+ORG,University Augsburg,1
+ORG,KSH,1
+ORG,Caritas Association,1
+PERSON,Andreas Schwarz,1
+PERSON,Susanne Wess,1
+PRODUCT,Wellness fourth,1
+LOC,Schle,1
+ORG,Stefanie Jegelka,1
+DATE,July 19,1
+ORG,Suvrit SRA Technical University,1
+ORG,Massachusetts Institute Technology,1
+ORG,University California Berkeley,1
+PERSON,Faculty Computer Science,1
+ORG,Suvrit SRA,1
+ORG,University Texas,1
+ORG,Max Planck Institute Intelligent Systems Tbingen,1
+CARDINAL,2015sra,1
+CARDINAL,2500,1
+ORG,train student social health nursing,1
+DATE,50 year ago,1
+ORG,Catholic University,1
+ORG,Maronis Team,1
+NORP,Maroni european,1
+PERSON,Opengpt X,1
+PERSON,Flores Herr,1
+PERSON,Elfriede Kohlhuber,1
+GPE,Viktualienmarkt,1
+DATE,age 79an,1
+EVENT,Kohlhuber,1
+PERSON,Elise Bengler,1
+PERSON,Elfriede Schmon geese,1
+PERSON,Michaela,1
+DATE,Kohlhuber,1
+ORG,Catholic Foundation University,1
+PERSON,Munich KSH,1
+DATE,January 1st,1
+PERSON,Hermann Sollfrank,1
+ORG,Caritas Association Munich Freising,1
+ORG,Faculty Mathematics,1
+ORG,WG,1
+PERSON,Lars Parlaska,1
+ORG,BASF,1
+PERSON,Sebastian Britz AI,1
+PERSON,Digitty,1
+PERSON,Britz,1
+PERSON,Benno Blumoser Siemens Ai Lab,1
+ORG,Vishal Garg,1
+ORG,Humanistas,1
+PERSON,Wong,1
+PERSON,Shorter,1
+ORG,Unity,1
+PERSON,District 9,1
+PERSON,Neill Blomkamp,1
+TIME,50 minute,1
+PRODUCT,Chalice Study Cheng,1
+PERSON,Ian Cheng Presented Las Light Art Space,1
+PERSON,Franziska,1
+PERSON,Cheng,1
+GPE,Moscow,1
+PERSON,Leoni Dalferth Bleenco,1
+GPE,Mannheim,1
+PERSON,Mller,1
+PERSON,Abdi Corbiota,1
+DATE,Wednesdays mai half day,1
+DATE,two week month,1
+PERSON,Erik Fjellborg,1
+ORG,McDonald,1
+DATE,five seven year ago,1
+ORG,Munich Institute Social Science Research ISF,1
+PERSON,Tobias Kmpf,1
+ORG,ISF,1
+PERSON,Tobias Weber,1
+ORG,Siemens Energy,1
+PERSON,Weber,1
+DATE,100 year,1
+NORP,swedish,1
+PERSON,Fjellborg,1
+ORG,Siemens Bosch IBM,1
+PERSON,Bleenco,1
+PERSON,Irman Abdi,1
+PERSON,Dirk Maroni,1
+PERSON,Jlich,1
+ORG,Super,1
+PERSON,Daniela Gerd Tom Markotten,1
+WORKOFART,Bahn accord Gerd Tom Markotten,1
+ORG,digital technology,1
+ORG,Telekom,1
+CARDINAL,7800,1
+CARDINAL,2035above,1
+DATE,220213 99 1069062,1
+DATE,January 7th 12,1
+ORG,Las Vegas Motor Speedway,1
+ORG,Autonomous Motorsport,1
+PERSON,Alexander Wischnewsai Phillip Karle,1
+PERSON,Garchinger Crew,1
+DATE,last October,1
+ORG,Indy Autonomous Challenge,1
+ORG,USA Europe Wischnewsai,1
+PERSON,Dallara IL,1
+DATE,January 7th,1
+CARDINAL,2022,1
+TIME,eight minute,1
+PERSON,Bahn Rhein Main Munich,1
+PERSON,Lienkamp,1
+ORG,Bahn Stuttgart,1
+PERSON,Richard Bellmann,1
+ORG,ISSAC Newton,1
+NORP,Pontrjagin,1
+PERSON,Lucas Bttcher,1
+ORG,Frankfurt School Finance Management,1
+PERSON,Thomas Asiais,1
+ORG,Antulov Fantulin Federal Technical University Technology Zurich,1
+ORG,ETH Bttcher,1
+ORG,Artificial Intelligence AI Pontrjagin,1
+ORG,oneLevel,1
+PERSON,Jochen Kopitzke,1
+ORG,Researchers Bttcher,1
+ORG,ABC XYZ,1
+PERSON,Kopitzke,1
+MISC,AI Pontrjagin,1
+PERCENT,three percent,1
+PERSON,Kopitzke,1
+PERSON,Markus Lienkamp,1
+PERSON,Wischnewsai,1
+ORG,Clouds,1
+PRODUCT,GPT 3GPT 3,1
+DATE,20 December,1
+DATE,next year January 2022,1
+MISC,AI Federal Association,1
+ORG,Aleph Alpha Heidelberg German Research Center Artificial Intelligence,1
+PERSON,Jrg Bienert AI Federal Association,1
+PERSON,Heesen Bienert,1
+PERSON,Bienert,1
+PERSON,Nicolas Flores,1
+ORG,Institute Intelligent Analysis Information Systems,1
+ORG,Sankt Augustin,1
+PERSON,Flores Herr,1
+PERSON,Clouds,1
+DATE,another last year,1
+MONEY,175 billion,1
+MONEY,175 trillion,1
+PRODUCT,GPT 4,1
+CARDINAL,hundred trillion,1
+ORG,Nvidia,1
+PERSON,David Chalmers,1
+DATE,Friday 9,1
+PERSON,Alif Jaair,1
+NORP,german,1
+GPE,Las Vegas,1
+PRODUCT,Tanja Rckert,1
+ORG,Bosch Group,1
+ORG,CES Technikmesse,1
+MISC,AI Rckert,1
+PERSON,Soundsee,1
+PERSON,Mike Mansuetti,1
+PERSON,Bosch North America,1
+PERSON,Bosch,1
+PERSON,Rckert,1
+PERSON,Rckert Bosch,1
+ORG,Rckert Bosch Center Artificial Intelligence BCAI,1
+MONEY,around 300 million,1
+DATE,220104 99 5896952,1
+PERSON,Hal,1
+PRODUCT,YouTube,1
+ORG,Ria Novosti,1
+PERSON,Sergei Lazarew,1
+PERSON,Beloususov,1
+CARDINAL,32 billion,1
+DATE,47 year old,1
+PERSON,Podcast Background Gerd Tom Markotten,1
+DATE,last September,1
+ORG,Stuttgart Daimler Group,1
+ORG,Nadelhr Stuttgart,1
+PERSON,Munich Rhein Main,1
+PERSON,Gerd Tom,1
+ORG,DB,1
+ORG,European Train Control System,1
+ORG,Moscow Chess Association FSM,1
+PERSON,Register free Gerd Tom Markotten,1
+ORG,Moovel,1
+DATE,maintenance 8000,1
+ORG,wagon,1
+PERSON,Roland Barthes,1
+DATE,1967,1
+PERSON,Poetron Gnter Gehl,1
+PERSON,Oscar,1
+CARDINAL,52,1
+CARDINAL,800,1
+PERSON,Fast Lane,1
+ORG,Deutsche Bahn DB Daniela Gerd Tom Markotten,1
+LAW,Formula 1,1
+PERSON,Heikai Kovalainen,1
+ORG,Jarno,1
+PERSON,Trullirank Vettel,1
+ORG,Smedley,1
+PERSON,Finn Kovalainen,1
+TIME,01 second,1
+PERSON,McLaren,1
+PERSON,Hamilton,1
+ORG,Champions Alain,1
+PERSON,Nigel Mansell,1
+CARDINAL,28,1
+PERSON,Nelson Piquet,1
+PERSON,Finn Hkainen,1
+DATE,2026,1
+ORG,Porsche Audi,1
+ORG,Smedley,1
+PERSON,Phillip Schnthaler,1
+CARDINAL,575,1
+PERSON,Matthes Amp,1
+ORG,Schaffhausen Institute,1
+DATE,almost two year,1
+ORG,stricken university future hang,1
+QUANTITY,60 million euro,1
+CARDINAL,2027the,1
+MONEY,22000 euro,1
+ORG,Association Promotion Scientific Research,1
+ORG,State Council Science Hfenstenator Claudia Schilling,1
+PERSON,Ryglewsai,1
+DATE,era come end start,1
+ORDINAL,2006at,1
+CARDINAL,1999but,1
+LOC,Land Bremen,1
+ORG,Jacobs University Bremen,1
+PERSON,Heiko Lammers,1
+ORG,SAP,1
+ORG,Neusoft German Research Center Artificial Intelligence Jacobs University Bremen,1
+ORG,SIT,1
+GPE,Bremen,1
+ORG,SIT Institute Advanced Learning,1
+DATE,early 20th century,1
+GPE,Beloususov,1
+CARDINAL,1959,1
+PERSON,Theo Lutz,1
+PERSON,Franz Kafka Das Schloss,1
+NORP,Muslims,1
+PERSON,Aljoscha Burchardt,1
+ORG,German Research Center Artificial Intelligence,1
+PERSON,Jean Franois Lyotard,1
+ORG,Roland Barthes,1
+ORG,Barthes,1
+ORG,Bremen Jacobs University Bremen,1
+PERSON,Fabio Pammolli,1
+ORG,Polytechnic University Milan Pammolli,1
+ORG,Serguei Belousov,1
+NORP,Russian,1
+PERSON,Schaffhausen Institute Technology,1
+ORG,Beloussov,1
+ORG,Bremen university,1
+CARDINAL,5 7,1
+PERSON,Charles Leclerc,1
+PERSON,Nico Rosberg,1
+NORP,Pffgen,1
+CARDINAL,1500,1
+NORP,Hrdtner,1
+PERSON,Baker Nico Hrdtner,1
+ORG,Spark,1
+FAC,Arche Berlin,1
+PERSON,Alexander Piutti,1
+PERCENT,five ten percent,1
+ORG,Piutti,1
+PERCENT,95 percent,1
+PERSON,Cem zdemir,1
+DATE,two day,1
+PERSON,Patrick Zimmermann,1
+ORG,Teegut,1
+ORG,Zimmermann,1
+PERSON,Zimmermann Rainer Schramm,1
+ORG,German Agricultural Society DLG,1
+PERCENT,half 52 percent,1
+PERSON,Mnster,1
+CARDINAL,CO2,1
+ORG,Schramm,1
+CARDINAL,23 million,1
+ORG,TASS,1
+DATE,next day,1
+PERSON,Sergej Smagin,1
+DATE,15 year,1
+QUANTITY,around 17 million ton,1
+QUANTITY,twelve million ton,1
+DATE,annually,1
+CARDINAL,almost seven million,1
+PERCENT,34 percent,1
+ORG,Federal Ministry Food Agriculture BMEL,1
+ORG,United Nations Report,1
+PERCENT,two percent,1
+GPE,Cologne,1
+DATE,holiday holiday,1
+PERSON,Claudia Pffgen Foodforecast,1
+PERCENT,18 percent,1
+QUANTITY,490 ton,1
+CARDINAL,75,1
+DATE,March 2021,1
+PERSON,Fernando Alonso,1
+PERSON,Lewis Hamilton,1
+CARDINAL,2020previously,1
+PERSON,Williams Jordan Ferrari,1
+ORG,Liberty Media,1
+CARDINAL,44 billion,1
+FAC,Fastest Driver,1
+PERSON,Machine Learning,1
+DATE,season,1
+PERSON,Sebastian Vettel Max Verstappen,1
+PERSON,Daniel Ricciardo,1
+QUANTITY,018 second,1
+ORG,Red Bull,1
+DATE,2016 2018,1
+NORP,Hesse,1
+DATE,01,1
+ORDINAL,4th,1
+DATE,0280,1
+TIME,0435 second,1
+ORG,Background Briton,1
+PERSON,Michael Schumacher,1
+ORG,State Institute Media NRW,1
+DATE,1994,1
+ORG,Berlin Condat AG,1
+DATE,several week,1
+PERSON,Tobias Schmid,1
+GPE,Vienna,1
+PERSON,Alpine Republic,1
+NORP,belgian,1
+PERSON,Tobias Schmid Kivi,1
+ORG,State Institute Media,1
+CARDINAL,2019,1
+DATE,10000,1
+PERSON,Frank Rumpenhorst,1
+ORG,KenFM,1
+NORP,non european,1
+PERSON,Banczyk,1
+MISC,AIvi,1
+ORG,Formula 1 fan,1
+NORP,Brazilian,1
+NORP,arabic,1
+PERSON,Williams GermansPress,1
+ORG,Federico Bianchi Stanford University,1
+PERSON,Link,1
+PERSON,Slaughter,1
+PERSON,TegmarkLike Leonard,1
+ORG,Switch Transformer,1
+ORG,Google third,1
+PERSON,Wu,1
+ORG,Chinese Beijing Academy Artificial Intelligence BAAI,1
+CARDINAL,20 trillion,1
+PERSON,Schlkopf,1
+DATE,essay last year,1
+CARDINAL,1789,1
+ORG,Causal Representation Learning,1
+PERSON,Judea Pearl,1
+GPE,Pearl,1
+DATE,many thousand year,1
+ORG,programmer evolution,1
+ORG,ageis,1
+PERSON,Pearl,1
+PERSON,Jrgen Schmidhuber,1
+PERSON,Adolf Eichmann,1
+ORG,Tegmark,1
+PERSON,Stuart Russell,1
+PERSON,Max Tegmark,1
+EVENT,French Revolution,1
+PERSON,Peer Steinbrck,1
+PERSON,Bernhard Schlkopf,1
+ORG,Alphabet Google,1
+PERSON,YouTube Amazon,1
+PERSON,Meta Facebook Netflix,1
+DATE,day season,1
+PERSON,Ke Jie million,1
+ORG,Google China,1
+GPE,Tokyo,1
+PERSON,Henry Kissinger,1
+ORG,HowThe Enlightenment,1
+GPE,Incas,1
+MISC,AIssinger,1
+PERSON,Mark Leonard,1
+ORG,European Council Foreign Relations,1
+PERSON,Stephen Hawaing,1
+ORG,Saudi Kaust University,1
+PERSON,Schmidhuber,1
+ORG,Saudi Arabian Kaust University,1
+ORG,Institute Diagnostic Interventional Radiology Frankfurt University Hospital,1
+PERSON,Andreas Bucher,1
+ORG,Hamm Tobias Penzkofer Clinic,1
+PERSON,Covid,1
+CARDINAL,36,1
+ORG,CT Lungshungs Corona,1
+CARDINAL,hundred many thousand,1
+CARDINAL,many hundred,1
+ORG,Bucher 36,1
+CARDINAL,14,1
+ORG,Bucher clinic,1
+ORG,University Medical Center,1
+ORG,Federal Ministry Education Research,1
+LANGUAGE,English,1
+ORDINAL,fiftieth,1
+ORG,Clip Openai,1
+ORG,Clip,1
+PERSON,Mario Klingemann,1
+GPE,Vogl,1
+PERSON,Thomas Vogl one,1
+PERSON,Princeton,1
+ORG,Radiologists Germany exchange CT,1
+ORG,Harvard Yale,1
+MONEY,500 billion,1
+CARDINAL,183,1
+PERSON,Evolutionalgorithms,1
+GPE,Learning,1
+GPE,Saudi Arabia,1
+PERSON,Kaust,1
+ORDINAL,7th,1
+ORG,Shaheen 3aramco,1
+DATE,third millennium,1
+DATE,millennium,1
+WORKOFART,Kaust,1
+ORG,Nnaisense,1
+PERSON,Species,1
+DATE,everywhere recent year,1
+DATE,next five year,1
+DATE,decade ago,1
+TIME,almost overnight,1
+PERSON,Denker Harari,1
+CARDINAL,around three million,1
+GPE,motorway city,1
+PERCENT,47 percent,1
+PERSON,Frey Osborne,1
+ORG,University Michigan,1
+CARDINAL,500000,1
+CARDINAL,240,1
+PERCENT,examined94 percent,1
+PERSON,Vanishav,1
+GPE,Vanishav,1
+PERSON,Maximilian Geilinger,1
+CARDINAL,people hundred thousand ten million,1
+ORG,USA,1
+ORG,Daimler Truck,1
+ORG,theGoogle,1
+PERSON,Torc Robotics,1
+PERSON,Daimler,1
+DATE,July 2021,1
+DATE,middle decade,1
+PERSON,Knorr Bremse,1
+ORG,Future Employment,1
+PERSON,Michael Osborne,1
+PERSON,Carl Benedikt,1
+DATE,nine year ago,1
+MONEY,million dollar,1
+MONEY,75 million 9 million,1
+ORG,Information,1
+CARDINAL,20 billion,1
+ORG,ICO,1
+MONEY,20 million euro,1
+GPE,Italy,1
+DATE,March,1
+ORG,American Civil Liberties Union,1
+ORG,ACLU,1
+ORG,Illinois future Clearview AI,1
+GPE,Illinois,1
+PERSON,John Edwards,1
+PERSON,Hoan Ton,1
+PERSON,aill order,1
+CARDINAL,50 million,1
+CARDINAL,million,1
+PERSON,Leoni Bosch Fraunhofer,1
+ORG,Society Universities Munich Braunschweigthat,1
+ORG,Traton Group,1
+CARDINAL,one billion,1
+PERSON,Peter Buxmann,1
+ORG,Wheat,1
+WORKOFART,Nobel Prize,1
+PERCENT,88 percent,1
+PERCENT,55 percent,1
+ORG,Cammio,1
+NORP,Christoph,1
+PERSON,Hohenberger Patrick Oehler,1
+PRODUCT,Retorio,1
+MISC,AI Deep Learning,1
+PERSON,Heiner Thorborg,1
+CARDINAL,1989Lucas,1
+ORG,Bechtle,1
+ORG,Digital Future,1
+PERSON,ant bee tell,1
+PERSON,Yuval Noah,1
+ORG,Harari,1
+ORG,Cooperation,1
+CARDINAL,every 700 million,1
+PERSON,Andreas Kammel,1
+PERSON,Martin Head,1
+GPE,Traton,1
+PRODUCT,E4 Sweden,1
+ORG,Columbia University,1
+WORKOFART,American Nobel Prize,1
+PERSON,Fast Slow,1
+PERSON,Findings,1
+ORG,Fund Society Allianz Global Investors,1
+DATE,two month,1
+ORG,Isar Technical University,1
+PERSON,Munich TU Darmstadt,1
+PERSON,node,1
+PERSON,Marburg,1
+PERSON,Jrgen Schfer,1
+ORG,Hessian Ministry Digital Strategy Development,1
+LAW,AI 10000 million,1
+CARDINAL,around 1000,1
+ORG,Legal Tech,1
+WORKOFART,Deep Dream,1
+ORG,Klingemann,1
+ORG,Klingemann,1
+PERSON,Berlin Benno,1
+PERSON,Lindner nine,1
+CARDINAL,200000,1
+ORG,CUM EX,1
+PERSON,Hamburg Cologne,1
+ORG,Ulrich Reitz bank,1
+GPE,Scholz,1
+PERSON,benno one,1
+PERSON,Benno Chat Bear,1
+ORG,Slack Microsoft Teams,1
+PERSON,Das Haus,1
+PERSON,Vonovia,1
+ORG,Jonas,1
+ORG,TUI Cruises Thies,1
+ORG,FC Kln,1
+PERSON,Lisbtt,1
+PERSON,Jooden Daach,1
+PERCENT,almost 60 percent,1
+PERCENT,almost 90 percent,1
+PERSON,Christian Lindner,1
+PERSON,Jared Kushner Ivanka Trump,1
+ORG,detail memoir,1
+PERSON,Ivanka Trump,1
+ORG,Depression Aid Foundation,1
+ORG,Selfapy Deprexis Novego Ifight Depression,1
+DATE,2298,1
+DATE,almost much entire year 2021,1
+PERSON,Barmer,1
+ORG,Stephanie Bauer,1
+ORG,Selfapy,1
+NORP,Deprexis,1
+ORG,Ifight Depression,1
+ORG,Bauer Heidelberg,1
+ORG,Depression Aid Foundation,1
+PRODUCT,AI one Concern,1
+PERSON,Gordon Repinsai,1
+ORG,Media Pioneer,1
+PERSON,Jared Kushner,1
+FAC,White House,1
+ORG,Kushner,1
+DATE,late 2026,1
+ORG,healthcare school university authority bank,1
+ORG,World Health Organization,1
+PERSON,Joshua Browder,1
+LOC,Donot Pay,1
+PERSON,Browder,1
+QUANTITY,almost four million pound,1
+PERSON,Alison Darcy,1
+ORG,Stanford University,1
+CARDINAL,ten thousand,1
+ORG,Nuremberg Market Research Institute NIM,1
+PERSON,Chatbot,1
+PERSON,Emma Coats,1
+ORG,Turkle,1
+PERSON,Alison,1
+GPE,Kasprzyk,1
+PERSON,Gran Turismo,1
+PRODUCT,PlayStation 5,1
+DATE,March 4 year,1
+ORDINAL,eighth,1
+PERSON,gran turismo fan,1
+DATE,age 19it,1
+ORG,Jeopardy,1
+PRODUCT,Healthbuddy,1
+ORG,Tech Group,1
+CARDINAL,19for,1
+ORG,Theodore,1
+NORP,Samantha,1
+PERSON,Luka,1
+PERSON,Lockdown,1
+DATE,April 2020,1
+CARDINAL,half million,1
+ORG,Millennials Bots,1
+PERSON,Erica Chatbot Bank America,1
+CARDINAL,20 million,1
+CARDINAL,250 million,1
+ORG,WhatsApp Erica,1
+DATE,money month,1
+PERSON,Hari Gopalkrishnan,1
+ORG,Bank America,1
+ORG,IBM,1
+CARDINAL,2011,1
+DATE,three quarter,1
+CARDINAL,9200,1
+ORG,Focus 412002,1
+DATE,Wednesday 815 pm first,1
+PERSON,chin beard,1
+ORG,Salesforce,1
+PERSON,Corona Lockdown,1
+ORG,Kaufregional,1
+PERSON,Kauf,1
+PRODUCT,CRM,1
+PERSON,Trailhead,1
+ORG,google,1
+PERSON,Joachim Schreiner,1
+PERSON,Austria Salesforce,1
+ORG,Lenovo,1
+CARDINAL,almost half,1
+PERSON,Craig Brod,1
+ORG,Technostress,1
+PERSON,Brod,1
+NORP,Didactician,1
+ORG,Data Literacy,1
+PERSON,Alex Kolbe,1
+ORG,Black Mirror,1
+ORG,SAPSAP,1
+ORG,Scifi,1
+ORG,Downton Abbey,1
+PERSON,Johann Hellstrm Tobias Moretti,1
+PERSON,Lucia Valery,1
+GPE,Tscheplanowa,1
+PERSON,Warmer,1
+PERSON,Lucia shower house,1
+PERSON,Rick Ostermann,1
+CARDINAL,2029storie,1
+PERSON,Ostermann,1
+PERSON,Patrick Brunken,1
+PERSON,Lisa Vicari,1
+CARDINAL,responsible least,1
+PERSON,Max von der,1
+PERSON,Groeben,1
+PERSON,Stefan Ciupek,1
+PERSON,Simon,1
+CARDINAL,2029,1
+PERSON,Nik Hagl,1
+PERSON,Aachen,1
+GPE,US,1
+ORG,Boston Consulting Group,1
+CARDINAL,2030regardless,1
+CARDINAL,84 million,1
+EVENT,Corona Ukraine War,1
+PERSON,Kluge,1
+PERSON,Colorizer Palette Colorize,1
+MISC,AI Picture Colorizer,1
+PERSON,Colorization Factor,1
+ORG,Palette Colorize,1
+ORG,Palette Colorize Photos,1
+ORG,W,1
+ORG,Palette Colorize Photos,1
+ORG,Gabler Economic Lexicon,1
+PERSON,Monta Bandone,1
+ORG,Head Digital Media Programmatic Adlicious,1
+ORG,FAQ,1
+PERSON,Mission Female,1
+PERSON,Schulz Thun,1
+CARDINAL,11 million,1
+CARDINAL,137000,1
+CARDINAL,300000,1
+ORG,Digitalverband Bitkom,1
+CARDINAL,one million,1
+DATE,next ten year,1
+ORG,Federal Press Office,1
+PERSON,Outlook,1
+PERSON,Hagl,1
+ORG,Federal Statistical Office,1
+PERCENT,03 percent,1
+DATE,miracle 2025,1
+PERSON,Mohammed Bavarian,1
+NORP,bavarian,1
+FAC,Microsoft Germany,1
+ORG,Daimler Benz AG Public Affairs,1
+ORG,Presidium Bitkom,1
+GPE,Amcham Germany,1
+PERSON,Fritzi Khler Geib,1
+CARDINAL,2025and,1
+CARDINAL,2025numerous,1
+GPE,Britain,1
+ORG,Clearview,1
+PERSON,Audible,1
+PERSON,Style,1
+ORG,Yoda,1
+PRODUCT,Clemens,1
+DATE,month ago,1
+ORG,Sddeutsche Zeitung,1
+ORG,obscura,1
+PRODUCT,Leica,1
+PERSON,Brennise,1
+PERSON,Vincent van Goghs,1
+PERSON,Alain Strowel,1
+ORG,University Leiden Central European University,1
+ORG,Catholic University Lwen,1
+MISC,AI Kunst Hahn,1
+PERSON,Mickey Mouse,1
+ORG,Alain Strovel,1
+PERSON,Dall E 2,1
+PERSON,Illustrator Brennise,1
+PERSON,Bundesliga Eintracht,1
+GPE,Europa League,1
+PERSON,David,1
+PERSON,Rip irish,1
+PERSON,van Gogh AI,1
+PRODUCT,Dall E 2,1
+PERSON,Anna Cavazzini,1
+PERSON,Gastager,1
+ORG,Wirecard,1
+DATE,four year,1
+ORG,Supervisory Board,1
+PERSON,Wirecard,1
+ORG,Patrick Vorst University,1
+PERSON,Maastricht American,1
+PERSON,Messod Beneish,1
+ORG,Accounting Review,1
+CARDINAL,60,1
+LOC,Atlantic,1
+CARDINAL,hundredth,1
+PERSON,Alex Jones,1
+PERSON,Artists Twitter,1
+PERSON,Adam Szym,1
+PERSON,Bruce Brennise,1
+ORG,Real Madrid,1
+ORG,Helsinai,1
+ORG,Saot Semi Automated Offside Technology,1
+ORG,dfl,1
+GPE,England,1
+ORG,Times,1
+PERSON,Michael Frhlich,1
+PERSON,Pierluigi Collina,1
+ORG,FIFA,1
+ORG,European Court,1
+PERSON,ECJ,1
+GPE,Belgium,1
+ORG,Technologies Artificial Intelligence,1
+PERSON,Giovanni Pitruzzella,1
+ORG,Court,1
+LAW,article 47 Charter Fundamental Rights,1
+CARDINAL,47,1
+ORG,EU Artificial Intelligence Act,1
+PRODUCT,ECJ,1
+ORG,General Data Protection Regulation,1
+ORG,Finck CZS Foundation,1
+ORG,DFB Schiri GmbH,1
+PERSON,Ansgar Schwenken,1
+ORG,Europe World Football Association,1
+ORG,DFL,1
+EVENT,Arab Cup,1
+DATE,February 2022,1
+ORG,FIFA,1
+ORG,European Football Union UEFA Supercup,1
+ORG,Champions League,1
+CARDINAL,29,1
+QUANTITY,70 second,1
+ORG,UEFA,1
+PERSON,Roberto Rosetti,1
+ORG,Jochen Drees Head Video,1
+ORG,Technologies German Football Association,1
+DATE,season August,1
+PERSON,Urs Meier,1
+NORP,swiss,1
+PERSON,Frankfurter Allgemeine Sonntagszeitung,1
+PERCENT,999 percent,1
+ORG,DFB German Football League,1
+ORG,EU AI,1
+DATE,next week,1
+ORG,European Commission,1
+ORG,NFL,1
+MISC,AI Tehrtechnology,1
+ORG,american technology,1
+PERSON,Deep Tech,1
+LOC,America Asia,1
+ORG,Ford Volkswagen,1
+PERSON,Jim Hackett,1
+DATE,three year later,1
+PERSON,Doug Field,1
+CARDINAL,827 million,1
+CARDINAL,18 billion,1
+ORG,Aurora Innovation,1
+DATE,220 year,1
+MONEY,around 23 billion,1
+DATE,week half much last year,1
+PERSON,Jim Farley,1
+DATE,approximately 2000,1
+ORG,VW Fordof,1
+ORG,much4,1
+ORG,BIAS,1
+ORG,VW VW,1
+PERSON,Cloud,1
+ORG,Poker Computer Games,1
+PERSON,Spreadsheet,1
+ORG,General Data Protection Regulation GDPR,1
+ORG,National Bureau Economic Research,1
+PERCENT,30 percent,1
+ORG,Information Technology Innovation Foundation,1
+QUANTITY,two billion euro,1
+ORG,Apple Special Projects Group,1
+ORG,IP,1
+ORG,Microsoft Amazon,1
+PERSON,metadata,1
+PERSON,media2,1
+GPE,Taiwan,1
+ORG,NVIDIA,1
+ORG,Taiwan TSMC,1
+PRODUCT,cloud3,1
+ORG,California Ki,1
+MONEY,26 billion,1
+PERSON,Ford Wolfsburgers,1
+ORG,European Parliament,1
+GPE,Smodin,1
+PERSON,Hassan Ragab,1
+NORP,egyptian,1
+CARDINAL,two hundred,1
+LOC,Instagram Ragab,1
+LOC,Ragab,1
+CARDINAL,400000,1
+DATE,every year,1
+ORG,EU Commission,1
+ORG,Federal Government,1
+DATE,September 2022,1
+PERSON,Rolf Schwartmann,1
+ORG,Cologne Research Center,1
+ORG,TH Cologne,1
+ORG,Society Data Protection Data Security GDD,1
+PERSON,Heidelberg,1
+ORG,GDPR BDSG TTDSG,1
+PERSON,Machine Learning,1
+PERSON,Hassan Ragab,1
+ORG,Leibniz Institute Knowledge Media IWM Tbingen,1
+GPE,Moia,1
+PERSON,Peter Gerjets,1
+ORG,Wolfsburg Group,1
+GPE,Jerusalem,1
+PERSON,Blume,1
+GPE,Blume,1
+PERSON,Wolfsburg Argo Ai,1
+MONEY,around 26 billion,1
+PERSON,Ford Hackett,1
+MONEY,2019about one billion dollar,1
+ORG,Ford Cologne,1
+NORP,Evangelical,1
+ORG,Mr Haverkamp Gtersloh,1
+GPE,East Westphalia,1
+PERSON,Hendrik Haverkamp,1
+PERSON,Heinz Peter Meidinger,1
+PERSON,YouWrite Sassbook,1
+PERSON,Smodin Neuroflash,1
+PRODUCT,Deepl,1
+PERSON,Melanie Fink,1
+MISC,AI Kai Fu Lee,1
+PERSON,Frankfurter,1
+PERSON,Alpha Alpha,1
+DATE,20 year ago,1
+DATE,15 year ago,1
+NORP,taiwanese,1
+GPE,Foxconn,1
+PRODUCT,Foxbots house,1
+ORG,Tesla Bot,1
+PERSON,Jonas Andrulis,1
+GPE,KI,1
+PERSON,Jonas Andrulis,1
+ORG,American Carnegie Mellon University,1
+DATE,AI year ago,1
+MISC,AI Alphago Lee Sedol AI,1
+DATE,37,1
+DATE,thousand year,1
+ORG,America Openai Google,1
+PRODUCT,GPT3 Wudao,1
+PRODUCT,GPT3,1
+MISC,AI Luminous,1
+PERSON,Asimo,1
+DATE,1980,1
+NORP,Far East japanese,1
+CARDINAL,67 billion,1
+GPE,Us,1
+PERSON,Ai Common Sense,1
+ORG,Blake Lemoine,1
+WORKOFART,Lamda Language Model Dialogue Applications great AI,1
+DATE,mid June,1
+PERSON,Washington Post,1
+PERSON,Douglas Adams,1
+PERSON,Marvin Hitchhiker Guide Galaxy,1
+PERSON,Marvin,1
+PERSON,Stanley Kubrick,1
+ORG,Google Blake Lemoine,1
+DATE,September,1
+QUANTITY,173 meter,1
+MISC,AI Tesla,1
+PERSON,Optimus Co,1
+PERSON,Elon Musk Twitter,1
+MONEY,around 800 billion,1
+ORG,BWI,1
+MISC,AIt Karlsruhe,1
+PRODUCT,Cyber Valley,1
+DATE,summer 2021,1
+PERSON,Rhett Samuel Price,1
+ORG,Professional Audiobook Narrators Association Pana,1
+CARDINAL,four hundred,1
+ORG,Pana,1
+PERSON,Price,1
+ORG,Pana Price,1
+DATE,almost three year,1
+PERSON,Sergey Baranov,1
+TIME,ten fifty hour,1
+NORP,Baranov,1
+CARDINAL,68,1
+TIME,thirty language,1
+ORG,Auto Breaths,1
+ORG,TTS,1
+CARDINAL,eleven million,1
+CARDINAL,2020and,1
+ORG,Knapp,1
+PERSON,Emma Rodero Ignacio Lucas,1
+CARDINAL,450,1
+ORG,PHD,1
+ORG,Association German Speakers,1
+ORG,Frankfurt Stuttgart Karlsruhe,1
+ORG,Oracle Cloud,1
+ORG,GovTech,1
+GPE,Brussels,1
+DATE,ten year,1
+DATE,2032,1
+ORG,Philanthropy Foundation,1
+EVENT,New Year Eve 2014,1
+WORKOFART,Gilmore Girls,1
+ORG,Herrmann,1
+PERSON,Speechai Deepzen,1
+CARDINAL,560,1
+TIME,sixteen language,1
+ORG,Frankfurt Book Fair million,1
+CARDINAL,one four hundred,1
+DATE,72,1
+MONEY,eight hundred dollar,1
+ORG,University Toronto,1
+PERSON,J Levesque,1
+ORG,Cornell University,1
+PERSON,Heilbronn Ki,1
+PERSON,Dieter Schwarz,1
+DATE,science year,1
+PERSON,Reinhold Geilsdrfer,1
+ORG,Dieter Schwarz Foundation,1
+ORG,Daimler Porsche,1
+PERSON,Neckar,1
+ORG,Heilbronn University,1
+ORG,Baden Wrttemberg University Applied Sciences,1
+PERSON,Fraunhofer Stone,1
+ORG,TU Munich,1
+PERSON,Geilsdrfer,1
+ORG,ETH Zurich,1
+DATE,almost two year ago,1
+ORG,Schwarz Foundation,1
+ORG,Baden Wrttemberg Ministry Economic Affairs,1
+DATE,spring,1
+ORG,Applied,1
+ORG,Lidl Kaufland,1
+ORG,Flixmobility Celonis Lilium,1
+CARDINAL,several hundred thousand,1
+DATE,two decade,1
+ORG,Microsoft Apple,1
+MISC,AI Wagnis,1
+ORG,Baidu Google,1
+CARDINAL,zero,1
+DATE,five year,1
+PERSON,Meta Microsoft,1
+DATE,next twenty year,1
+ORG,Quantum,1
+PERSON,Kai Fu Lee Qiufan Chen KI,1
+CARDINAL,534,1
+PERSON,Heilbronn Munich,1
+NORP,nglish Ai,1
+FAC,Andreas Liebl,1
+PERSON,Munich Initiative Artificial Intelligence,1
+PERSON,Munich Heilbronn,1
+PERSON,Susanne Klatten,1
+DATE,2002,1
+CARDINAL,20000 30000,1
+PERSON,TU Munich,1
+PERSON,Jacob Technion Cornell Institute,1
+ORG,Bloomberg,1
+PERSON,Siri Alexa,1
+DATE,first half century,1
+CARDINAL,2029but,1
+PERSON,Tesla Smart Summon,1
+DATE,ten year old,1
+PERSON,Jerry Seinfeld,1
+PERSON,Ralph Waldo,1
+ORG,Emerson,1
+DATE,past year,1
+ORG,ACI,1
+PERSON,Gottfried Leibniz,1
+DATE,300 year ago,1
+MISC,AI John McCarthy,1
+ORG,ML base AI,1
+PERSON,Lamda ML,1
+GPE,ML,1
+PERSON,Ronald J Brachman,1
+PRODUCT,Cosmopolitan,1
+DATE,18 month,1
+PERSON,Geilsdrfer,1
+TIME,48 hour,1
+ORG,Bloomberg,1
+CARDINAL,50 50,1
+DATE,almost 40 year,1
+ORG,Bloomberg Future Finance,1
+ORG,Frankfurt Zoo,1
+DATE,1982,1
+PERSON,Kliangko,1
+CARDINAL,5000 7000,1
+ORG,Kliatchko,1
+MONEY,300 billion movement,1
+PERSON,Gary Kazantsev,1
+MISC,AIExample,1
+PERSON,Kazantsev,1
+PERSON,Kliattchko,1
+ORG,Kliangchko,1
+DATE,around 20000 year,1
+PERSON,Kliatchko Bloomberg,1
+PERSON,Gran Turismo Sport,1
+PERSON,Laguna Seca Raceway,1
+PRODUCT,Gran Turismo 7If,1
+PERSON,Volker Wissing,1
+DATE,Gilday,1
+PERSON,Loren Thompson,1
+ORG,Lexington Institute,1
+PERSON,Mazie Hirono,1
+PERSON,Gilday,1
+ORG,Deutsche Bahn,1
+PERSON,Richard Lutz,1
+ORG,Federal Transport,1
+PRODUCT,Sdkreuz,1
+GPE,Prince Ghana,1
+CARDINAL,22,1
+DATE,three month,1
+ORG,DB NBSP Security Federal Police Nbsp,1
+ORG,BUND NBSP Railway,1
+ORG,South Cross,1
+CARDINAL,11000,1
+ORG,germany9000,1
+ORG,Lutz,1
+NORP,ZWEISTERSZEISTOERSTO,1
+CARDINAL,2045,1
+GPE,Untersee,1
+PERSON,Mike,1
+ORG,lieRaized,1
+PERSON,Aaron Guzikowsai,1
+GPE,Amanda,1
+PERSON,Collin Abubakar,1
+ORG,Fimmel Warner,1
+DATE,August 4,1
+ORG,China US Navy,1
+ORG,krieg usa verlert chriftschiffe,1
+CARDINAL,5g4qnujfwbfijhbxamp6ll2uwmhtml,1
+ORG,Blank US navy,1
+ORG,Pacific Pacific,1
+LOC,Pacific Ocean,1
+ORG,US Navy,1
+PERSON,Jeremiah Daley,1
+ORG,MP House Representatives,1
+PERSON,Elaine Luria,1
+DATE,next summer,1
+ORG,Federal Police,1
+PERSON,NBSP,1
+PERSON,Nancy Faeser,1
+PERSON,Westworld,1
+TIME,last second,1
+PRODUCT,Franaie,1
+PERSON,William Ed Harris,1
+PERSON,Black together,1
+ORG,Charlotte Hale Tessa Thompson,1
+FAC,Golden Age,1
+PERSON,Weiland Siegel,1
+CARDINAL,1956,1
+DATE,highlight first season,1
+WORKOFART,Westworld Westworld,1
+PERSON,Jonathan Nolan Lisa Joy Evan Rachel Wood Thandiwe,1
+PERSON,Aaron Paul,1
+PERSON,Jeffrey Wright Ed Harris,1
+PERSON,Debose Tessa Thompson,1
+PRODUCT,Sky Nbsp,1
+PERSON,Franziska Giffey,1
+PERSON,Vitali Klitschkostill,1
+PERSON,Maeve Thandiwe Newton,1
+LOC,europe,1
+ORG,Bahn Nbsp Federal Police,1
+DATE,2019 2024,1
+ORG,Lemoines,1
+ORG,Google Ki,1
+ORG,Target,1
+ORG,Lemoine Washington Post,1
+PERSON,Lamda GPT,1
+PERSON,Kate Darling,1
+PERSON,Lemoine Lamda,1
+GPE,Austria,1
+ORG,netzpolitikorg2018,1
+PERSON,von software,1
+ORG,Google Home,1
+TIME,one language master,1
+PERSON,Timnit Gebru,1
+ORG,Google Job,1
+WORKOFART,Atlas Ai AI Ethician Kate Crawford,1
+ORG,Google Amazon Co,1
+PERSON,opinions20220617 Google Ai Ethics,1
+ORG,Blessed Sacrament Trust,1
+CARDINAL,22b,1
+ORG,Netflix Prime Video Apple,1
+ORG,ESKE,1
+ORG,Association Oymwv7mx2jsueaeosfzzelhcmhtml Target Blank,1
+ORG,Wolfsburg,1
+PERSON,intelligenz,1
+GPE,beifbea6iwjrwjrwsvymb53NAhtml,1
+PERSON,Merz,1
+PERSON,Volkscachungungsanstalt,1
+PRODUCT,ZDF,1
+ORG,CDU,1
+NORP,Christian,1
+ORG,Hummel Hanover,1
+PERSON,Economics Robert Habeck,1
+PERSON,Marwede Neustadt,1
+PERCENT,13 percent,1
+PERSON,Entaeuschlich zy7yasxpkfadzj4uwyew3ujmhtml,1
+ORG,Dreke Stadthagen,1
+PERSON,Listed,1
+PERSON,wegna sahra,1
+PERCENT,50 percent,1
+CARDINAL,479,1
+ORG,Left Party,1
+ORG,Braunschweig,1
+DATE,first half 2023,1
+ORG,andNetworaing,1
+CARDINAL,50 60,1
+CARDINAL,2030percent,1
+ORG,Horizon RoboticsThe,1
+DATE,last two year,1
+NORP,bfqa5pzwkyesvjwyff7lsfjydqhtml,1
+ORG,EEW,1
+PERSON,Helmstedt,1
+PERSON,Sasaia Esken,1
+PERCENT,eight ten percent,1
+PERSON,Bernhard Kemper,1
+WORKOFART,Lower Saxony,1
+PERSON,Stephan Weil,1
+PERSON,EconomyThe Christian,1
+NORP,Democrats,1
+PERSON,Althusmann,1
+CARDINAL,34jsxoxlanhailewclp33Sudi2qhtml,1
+GPE,china,1
+PERSON,Raized,1
+GPE,USA Germany,1
+QUANTITY,almost 13 billion euro,1
+ORG,Energy Prices,1
+PERCENT,6 percent,1
+ORG,Ragnar Viaings,1
+WORKOFART,Old Testament,1
+PERSON,Sol,1
+PERSON,Baobab,1
+PERSON,John Lennon,1
+ORG,Foundation Apple TV,1
+NORP,Dsternis,1
+PERSON,Alien,1
+DATE,1979,1
+EVENT,Prometheus 2012,1
+PERSON,Ash Ian,1
+PERSON,David Michael Fassbender Prometheus,1
+ORG,Warner,1
+PERSON,stun,1
+PRODUCT,Celonis,1
+FAC,IM Conscious,1
+ORG,VISION,1
+ORG,Bitkom,1
+GPE,Kretschmer,1
+ORG,Waffen Fuer Ukraine Warum Warum Kampf,1
+PERSON,Sollte,1
+ORG,Niesmann,1
+PERSON,Kristina Dunz,1
+ORG,Triefing Editorial Network Germany,1
+TIME,every morning,1
+CARDINAL,7receive,1
+ORG,America US,1
+ORG,Netflix AMP Co,1
+ORG,de mobile news,1
+DATE,3a101038 2fs419,1
+ORG,Canadian University Montreal,1
+LOC,Sylvesterai,1
+DATE,Today Bad Day,1
+MISC,AI Germany,1
+PERSON,Achim Berg,1
+ORG,Berlin Senate,1
+PERSON,Giffey,1
+NORP,Cariad,1
+PERSON,android series Spaceship Enterprise,1
+DATE,1999,1
+PERSON,Michael Bays,1
+ORG,Harris 2011,1
+PERSON,Michael Crichton,1
+PERSON,Victor Frankenstein,1
+PERSON,Valley Forge,1
+ORG,Dewey Huey,1
+ORG,Magical Land 1939,1
+DATE,next century,1
+ORG,Blank,1
+DATE,19871994,1
+PERSON,dreamer,1
+PERSON,Steven Spielberg Artificial Intelligence,1
+PERSON,Andrew Stanton Wall,1
+FAC,Roboschnkeit Eve Dog Goodyear,1
+PERSON,Roy Batty,1
+PERSON,Blade Runner Advent 2021,1
+PERSON,Ronbot,1
+PERSON,Coppolas Virgin,1
+PERSON,Mary Shelley Victor Frankenstein,1
+PERSON,Grgory Montel,1
+PERSON,Leclerc,1
+PERSON,Robert Harris,1
+ORG,HAL,1
+PERSON,Vixal 4,1
+PERSON,Hugo Quarry Arsher Ali,1
+ORG,Hoffman Investment Technology,1
+QUANTITY,4 amopen morning,1
+ORG,VIXAL,1
+CARDINAL,4To,1
+PERSON,Maschinensimsalabim,1
+PERSON,Pecunia ex Machina,1
+NORP,Irish,1
+PERSON,David Caffrey Peaky Blinders,1
+PERSON,Gabby Leila Farzad,1
+QUANTITY,42 million euro,1
+PERSON,Charles Darwin,1
+PERSON,Roy,1
+ORG,HBO,1
+ORG,Century Fox,1
+ORG,Blue Sky Studios Ice Age Rio,1
+ORG,Lockdown Animation Barney Pudowsai,1
+PERSON,Fakevideos Federal,1
+PERSON,SPD Deepfake,1
+PRODUCT,Ria,1
+ORG,Kremlin,1
+GPE,America,1
+LAW,Brother 2,1
+PERSON,Viktor Tschernomyrdin,1
+DATE,1938 2010 1993,1
+PERSON,Tschernomyrdin,1
+LANGUAGE,russian,1
+PERSON,Chernomyrdinka Putin,1
+PERSON,Scholz Putin,1
+DATE,September 90,1
+GPE,Russia,1
+PERSON,Neo Rauch Print,1
+TIME,three hour later,1
+DATE,three year old,1
+DATE,2 three Year,1
+PERSON,Wladimir Putin,1
+GPE,Russia,1
+GPE,Donka,1
+PERSON,Smart Homes,1
+PERSON,Robot Ron,1
+PERSON,Isaac Asimovs Ron,1
+PERSON,Bubble,1
+PERSON,Andrew Morris,1
+PERSON,Andy McKays,1
+DATE,Christmas Eve Netflix,1
+PERSON,Marc Weidell,1
+PERSON,Bubble Shredder,1
+DATE,November 3,1
+PERSON,Mediathek,1
+DATE,Wednesday December 15th,1
+PERSON,Arte,1
+CARDINAL,815,1
+PERSON,Mediathek Tobias Moretti,1
+PERSON,Rick Ostermanns,1
+ORG,Patrick Brunken,1
+PERSON,Lucia Valery Tschleplesplanowa,1
+DATE,decade later,1
+DATE,ourEveryday,1
+PERSON,Dave,1
+NORP,Klischko,1
+ORG,Kardashians,1
+MISC,AIm Kardashian,1
+PERSON,Saint,1
+PERSON,al al,1
+DATE,5197290 552152,1
+WORKOFART,Origin List Sort manufacturer Target Blank Stiftung Warentest,1
+ORG,Inacceptable,1
+NORP,Jews,1
+PERSON,Minecraft Lego,1
+PERSON,Roblox Hinter Dem Online Online,1
+DATE,eaiaiqobchmihau5gp9wivyrogab1htqfgeamyasaegimzvdbwe,1
+ORG,madeaske,1
+ORG,Child Labour Target Blank Guardian,1
+ORG,technology48450604 Target,1
+DATE,12 year,1
+GPE,North Rhine,1
+DATE,13 year old,1
+ORG,Senate,1
+PERSON,Franziska Giffey,1
+ORG,Roblox,1
+ORG,103html Target Blank,1
+ORG,Twitter Giffey,1
+ORG,Deep Fake,1
+GPE,Jurassic Park,1
+DATE,1993,1
+ORG,Deepfkes,1
+ORG,Windows,1
+PERSON,Barack Obama,1
+ORG,Buzzfeed,1
+PERSON,Jordan Peele,1
+ORG,Federal Office Security Information Technology BSI,1
+ORG,BSI,1
+TIME,20 minute,1
+ORG,ZDF,1
+PERSON,Leschs Kosmos,1
+ORG,Ibiza,1
+NORP,Austrian,1
+PERSON,Heinz Christian Strache,1
+PERSON,Robux,1
+PERSON,Quintin Smith,1
+PERSON,Stanley Kubrick,1
+ORG,bczb72bd5hbmekdcrwojfbyhtml Target,1
+ORG,VW,1
+QUANTITY,61 million ton,1
+ORG,International Aviation Association,1
+DATE,almost quarter,1
+ORG,Lufthansa,1
+LOC,Load Planner,1
+ORG,Good Go,1
+DATE,August September,1
+DATE,last flight day,1
+GPE,Emirates,1
+PERCENT,30 40 percent,1
+PERCENT,60 70 percent,1
+ORG,Qatar Airways,1
+PERSON,Al Naema,1
+CARDINAL,200 300,1
+ORG,Japan Airlines,1
+ORG,Saip,1
+ORG,Moia,1
+CARDINAL,2025the,1
+ORG,AugustPeople Make Games,1
+ORG,IDBuzz,1
+DATE,quarter,1
+ORG,VTMF6XEIAAY TARGET,1
+ORG,Roblox Studio Roblox Corporation,1
+CARDINAL,almost 50 million,1
+LAW,Roblox 40 million,1
+DATE,February,1
+PERSON,logrobloxcom2022,1
+ORG,Blogpost Roblox,1
+ORG,Roblox Corporation,1
+PRODUCT,Condo,1
+ORG,Control easy,1
+PERSON,Schulz,1
+LOC,Volkswagen Europe,1
+DATE,year two,1
+DATE,September 11 2001,1
+GPE,Success United States,1
+PERSON,Bulli,1
+MONEY,around 13 billion euro,1
+ORG,Alphabet VW,1
+GPE,GT,1
+WORKOFART,Star Trek Strange,1
+PERSON,Constantin Gonzalez,1
+PRODUCT,Zalando,1
+PRODUCT,DLD,1
+PERSON,Hubert Burda Media,1
+DATE,several time year,1
+PERSON,MI6,1
+ORG,Amazon,1
+PERSON,Buzz Lightyear,1
+DATE,first season,1
+PERSON,Julia Alexandra Maria Lara,1
+ORG,Aaiva,1
+PERSON,Alex Kurtzman Jenny Lumet Anshern Mount,1
+PERSON,Ethan Peck,1
+DATE,8 December,1
+ORG,Paramount,1
+DATE,last season,1
+ORG,Dark Materials Fantasy,1
+ORG,Carnival Row Sweet Tooth,1
+PERSON,Munich Berlin Dsseldorf,1
+CARDINAL,81,1
+GPE,formula1,1
+CARDINAL,2006today 200,1
+PERSON,Zalando Otto,1
+PERSON,Soundcloud,1
+ORG,Airbnb,1
+ORG,Vodafone Alexa,1
+ORG,Amazon Group AWS,1
+ORG,Amazon Group,1
+DATE,third quarter 2021,1
+ORG,Canalys AWS,1
+PERCENT,32 percent,1
+PERSON,Platform Alibaba,1
+CARDINAL,two third,1
+PERSON,Constantin Gonzalez Principal Solutions Architect,1
+CARDINAL,245,1
+ORG,Amazon Simple Storage Service Gonzalez,1
+PRODUCT,Liever Statistically 13000,1
+PERSON,Blockchain Bundesliga,1
+DATE,March 14,1
+ORG,Philip Pullman,1
+PERSON,Tolaien,1
+GPE,Klippenalpe,1
+PERSON,Zappendusteres Opus,1
+DATE,2006,1
+WORKOFART,Thriller,1
+PERSON,Robert Langdon,1
+PERSON,Ashley Zuerk,1
+ORG,Harvard,1
+PERSON,Hanks Dan Brown,1
+DATE,Symbol first season,1
+PERSON,Daniel Cerone,1
+PERSON,Ashley Zukerman,1
+PERSON,Beau,1
+PERSON,Valorie Curry EddieIzzard,1
+DATE,1 December,1
+PERSON,wkdqc6mifj4 TARGET,1
+PERSON,Yang Raymond Amp Ray,1
+ORG,Haley Joel Osment,1
+PERSON,Steven Spielberg AI,1
+PERSON,Miguel Sapochnik,1
+PERSON,Da Vinci,1
+ORG,Sherlock Luther Mysterious Templar,1
+CARDINAL,1400,1
+ORG,Apple tv,1
+PERSON,Lyra Belacqua Fantasie de Luxe,1
+PERSON,Lyra Belaqua,1
+LAW,God Dark Materials,1
+PERSON,Jack Thorne Philip Pullman,1
+PERSON,Ruth Wilson,1
+PERSON,James McAvoy,1
+DATE,5 December,1
+ORG,Smith Antoine Fuqua,1
+FAC,Underground Railroad Good Lord Bird,1
+PERSON,aill Peter,1
+PERSON,Antoine Fuqua,1
+PERSON,Abraham Lincoln,1
+PERSON,Smith,1
+PERSON,Chris Rock,1
+TIME,132 minute,1
+ORG,Antoine,1
+PERSON,Ben Foster Charmaine,1
+PERCENT,100 percent,1
+PERSON,Hartz,1
+PERSON,Lada Niva Travel,1
+ORG,Assetto Corsa Competizione Iracing,1
+DATE,March 4 2022,1
+LAW,PlayStation 4 5,1
+DATE,6999,1
+DATE,7999,1
+ORDINAL,25th,1
+LAW,9999,1
+PERSON,Kai Uwe,1
+ORG,Perfect Dinner,1
+DATE,ticker day,1
+PERSON,Andershaus Kai Uwe,1
+ORG,German Stifter Association Future Saills,1
+CARDINAL,700000,1
+ORG,Organizations Hacker School,1
+DATE,weekend school day,1
+PERSON,Julia Nitsch,1
+DATE,age 13it,1
+NORP,Nitsch,1
+CARDINAL,49 5,1
+PERSON,Gran Turismo,1
+PERSON,Woooooah,1
+MISC,AI GT7,1
+PRODUCT,GT7,1
+PERSON,linear,1
+ORG,GT Caf,1
+ORG,GT7It,1
+CARDINAL,162,1
+ORG,GT Sport 424,1
+PERSON,Aston Martin,1
+PERSON,James Bond Mercedes Benz,1
+ORG,Le Mans,1
+FAC,Daytona International Speedway,1
+ORG,NASCAR,1
+ORG,Deep Forest Raceway Trial Mountain High Speed Ring,1
+CARDINAL,34,1
+DATE,four half year,1
+PERSON,Sainte Croix,1
+ORG,GT Sport AI,1
+TIME,seven second,1
+DATE,weekend,1
+ORG,Hacker School,1
+PERSON,Niva,1
+ORG,Intel Group,1
+ORG,SOC Eyeq Ultra,1
+QUANTITY,12 24 watt,1
+ORG,Cortical Labs,1
+QUANTITY,800000 one million,1
+PERSON,larva 100000,1
+NORP,Dishbrain,1
+PERSON,Dishbrain,1
+PERSON,Cortical Labs,1
+PERSON,Pong Dishbrain,1
+ORG,Brett Kagan,1
+PRODUCT,Cortical Labs,1
+ORG,Neu Chip European Union,1
+ORG,Koniku,1
+WORKOFART,Star Trek,1
+PERSON,Michael Frtsch,1
+GPE,Omikron Germany,1
+PERSON,Lada Niva,1
+ORG,EYEQ,1
+ORG,Mobileye,1
+DATE,2030,1
+ORG,Federal Office Information Technology,1
+PERCENT,12 percent,1
+CARDINAL,13 trillion,1
+PERSON,Christian Hintz Hintz,1
+PERSON,Ai Leaders,1
+ORG,WKN,1
+PERSON,Medicine Alphabet,1
+PERSON,Focus Money,1
+PERSON,Satya Nadella,1
+ORG,Vantage Market Research,1
+MONEY,800 billion 2028Morgan,1
+ORG,Stanley,1
+DATE,annual,1
+MONEY,around eight trillion dollar,1
+ORG,Meta Platforms,1
+PRODUCT,Oculus VR,1
+PRODUCT,Quest 2,1
+ORG,Autonomous,1
+PERSON,St Louis San Francisco,1
+PERSON,Jean Reno,1
+ORG,Google Group,1
+PERSON,klima,1
+PERSON,von walk,1
+PERSON,Jantje,1
+PERSON,Baran Bo Odar,1
+DATE,previous century,1
+ORG,Syrian Civil War,1
+PERSON,Merry Streaming,1
+ORG,Imre Grimm Lena Obschinsky Matthias Schwarzer Matthias Halbig,1
+DATE,Wednesdays,1
+DATE,every Tuesdays Thursdays Saturdays,1
+DATE,two energy seven day,1
+DATE,Tuesday,1
+ORG,Samsung,1
+PERSON,Anil Hariharakrishnan,1
+PERSON,Product Engineering,1
+QUANTITY,one two degree,1
+ORG,Ready Care,1
+PERSON,Harman,1
+ORG,Harman,1
+PERSON,theZombie,1
+ORG,Target Matthias Halbig,1
+PERSON,von dams,1
+DATE,wednesday,1
+ORG,Magenta TV,1
+CARDINAL,84,1
+PERSON,Heldin June,1
+DATE,freedom fifth season,1
+PERSON,Gott Als Marionette des,1
+PERSON,Jantje Friese Baran,1
+DATE,last century,1
+ORG,Ul6jrdg5u5cq7fztcxSkonkseyhtml Target Blank,1
+PERSON,Matthias Halbig,1
+PERSON,Berlin Karl,1
+DATE,365 day,1
+PERSON,Vienna Hotel Sacher,1
+ORG,Xjluzuk55CGXOI65JCL6WMhtml Target Blank,1
+PERSON,Goth,1
+PERSON,Tim Burton,1
+PERSON,Heldin,1
+PERSON,Grusel,1
+PERSON,Armin Prommersberger,1
+ORG,Automotive Product ManagementAt Harman International Ready Care,1
+ORG,Customer Engineering,1
+LOC,People Republic China,1
+DATE,Beijing year ago,1
+CARDINAL,almost 15,1
+PERSON,Baidus,1
+GPE,Wuhan,1
+GPE,Chongqing,1
+CARDINAL,65,1
+NORP,CaliforniaPonyai,1
+FAC,USA Cruise,1
+GPE,Arizona,1
+MONEY,14 billion,1
+GPE,Europe United States,1
+DATE,year ago,1
+PERSON,Wolfsburger,1
+MONEY,27 billion,1
+GPE,Level,1
+TIME,four second,1
+PERSON,BUZZ,1
+DATE,month early,1
+QUANTITY,almost 36000 euro,1
+PERSON,Marcus Futterlieb,1
+MONEY,250000 yuan,1
+PRODUCT,Prommersberger,1
+DATE,six twelve month,1
+ORG,North American International Auto Show,1
+DATE,September year,1
+DATE,8 2023,1
+NORP,SP X,1
+TIME,approximately two hour,1
+PERSON,Andrea Cologne Brit,1
+PERSON,Philharmonie FrankfurtIn,1
+PERSON,kultur hamburg,1
+PERSON,Orchestra,1
+ORG,SymphonyNow,1
+PERSON,Beethoven Elphi,1
+PERSON,noch kommt,1
+ORG,FutureThe,1
+NORP,Techriese,1
+DATE,2013,1
+PERSON,Michael Pohl,1
+PERSON,Target,1
+ORG,British Royals,1
+PERSON,Andrzej Sapkowsai Liam Hemsworth,1
+DATE,year year,1
+PERSON,Blood Origin,1
+PERSON,Declan de Barra Lauren,1
+PERSON,Schmidt Hissrich,1
+PERSON,Brown Michelle Yeoh,1
+ORG,Fuarain Lenny Henry Mirren Mack 25th,1
+PERSON,Guillermo del Toros,1
+FAC,Sandman Nightmare,1
+GPE,Pinocchio,1
+PERSON,Guillermo del Toro,1
+PERSON,Pan Labyrinth,1
+ORG,Cabinet Curiosities,1
+PERSON,Robert Zemecais,1
+PERSON,Guillermo del Toros Pinocchio,1
+CARDINAL,114,1
+PERSON,Guillermo del Toro Mark Gustafson,1
+PERSON,Gregory Mann,1
+ORG,Blood Origin,1
+ORG,Geralds Riva,1
+PERSON,Tilda Swinton,1
+PERSON,Henry Cavill,1
+PERSON,Marc Levy,1
+PERSON,Alexandra Maria Lara,1
+PERSON,Jean Reno Alex Brendemhl Cdric,1
+PERSON,Ben Abdallah from15,1
+PERSON,Franz Beckenbauer Biopic,1
+ORG,Miracle Bern Pel Film,1
+PERSON,Beckenbauer Franz,1
+PERSON,Beckenbauer,1
+EVENT,World Cup Football,1
+ORG,Kicker Coolio,1
+ORG,Franz,1
+PERSON,EmperorFilm Martin Rauhaus,1
+PERSON,Stefan Murr,1
+PERSON,Christine Eixenberger,1
+DATE,16 December,1
+ORG,WOW,1
+PERSON,Blood OriginFantasy,1
+PERSON,David Bradley,1
+DATE,9 December,1
+CARDINAL,ninety one,1
+PRODUCT,Asitellte Spassvoegel,1
+PERSON,Mika,1
+PERSON,Kogonada,1
+PERSON,medienfter yang,1
+CARDINAL,31,1
+ORG,Drama Apple tv,1
+CARDINAL,65 ten,1
+PERSON,Lila Neugebauer,1
+ORG,Causeway,1
+PERSON,Jennifer Lawrence,1
+PERSON,Brian Tyree Henry,1
+WORKOFART,Oscar,1
+PERSON,Jennifer Lawrence Ost,1
+ORG,Target Blank Matthias Halbig,1
+ORG,bToo,1
+PRODUCT,Crown,1
+CARDINAL,87 ten,1
+GPE,TheCrown,1
+ORG,Genre,1
+QUANTITY,2 von discounter,1
+PERSON,Cinderella,1
+PERSON,marijuana,1
+ORG,Willow,1
+PERSON,Jonathan Kasdan,1
+PERSON,Willow,1
+DATE,1988,1
+PERSON,Warwick Davis,1
+PERSON,Jonathan Kasdan Warwick,1
+PERSON,Davis,1
+PERSON,Erin Kellyman,1
+PERSON,Guillermo del Toro Cabinet Curiosities Netflix Grusel Netflix,1
+CARDINAL,72 ten,1
+PERSON,Twilight Zone,1
+PERSON,Guillermo del Toro Cabinet Curiosities,1
+PERSON,medien Horror,1
+PERSON,Guillermo Del Toro Cabinet Curiosities Alles,1
+PERSON,Matthias Halbigthrow,1
+PERSON,Thorstens Kolinsai,1
+ORG,Amazon Prime Video,1
+DATE,211216 99 4056334,1
